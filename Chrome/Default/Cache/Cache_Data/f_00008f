@@ -1,0 +1,2831 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#dc143c">
+<meta http-equiv="Content-Language" content="EN" />
+<meta name="description" content="Perfumes Search - Fragrantica: Your Online Destination for All Things Fragrance
+Discover the world of perfumes with Fragrantica, a comprehensive online ..." />
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1, noarchive" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+<meta name="verify-admitad" content="2470859e46" />
+<title>Perfumes Search</title>
+<link rel="stylesheet" href="/new-css/mfga-app.css?v=rtgF85203ed9384cd4a1f6314cf3e9ff6979d">
+
+<script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=0RWTqweeinPgtQrA8AAoZWypz2XH_fJUYlYtOE3lNi0IoXeslL6Lm8zRAxq1QmxeOXYwAUofc01Bi_1OVV0HUg" charset="UTF-8"></script><script async src="https://www.googletagmanager.com/gtag/js?id=G-LKTF6586LY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-LKTF6586LY');
+</script>
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@fragrantica">
+<meta name="twitter:creator" content="@fragrantica">
+<meta name="twitter:title" content="Perfumes Search">
+<meta name="twitter:description" content="Perfumes Search - Fragrantica: Your Online Destination for All Things Fragrance
+Discover the world of perfumes with Fragrantica, a comprehensive online resource, magazine, and community dedicated to fragrance enthusiasts. We keep our readers in the know about the latest perfume releases, renowned fr">
+<meta name="twitter:image" content="https://fimgs.net/himg/o.wykSYukEwh9.jpg">
+<meta property="og:url" content="https://www.fragrantica.com/search/" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Perfumes Search" />
+<meta property="og:description" content="Perfumes Search - Fragrantica: Your Online Destination for All Things Fragrance
+Discover the world of perfumes with Fragrantica, a comprehensive online resource, magazine, and community dedicated to fragrance enthusiasts. We keep our readers in the know about the latest perfume releases, renowned fr" />
+<meta property="og:image" content="https://fimgs.net/himg/o.wykSYukEwh9.jpg" />
+<meta property="fb:app_id" content="210435382308280" />
+<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png" />
+<link rel="manifest" href="/manifest.json">
+<script async src="https://cdn.fuseplatform.net/publift/tags/2/2392/fuse.js"></script>
+</head>
+<body>
+<div id="fragranticaloader" style="position:absolute; top: 0;right: 0; width: 100%;height: 100%; display: flex; align-items: center; justify-content: center">
+<img style="width: 57px;height: 57px;opacity: 0.5;" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADkAAAA5CAYAAACMGIOFAAAROklEQVRo3sWae4xc9XXHP+c+5rH22ut92Ov1em3stQM2oTwNNlvqRFVUEZKSVChNSAmUUkKqNhVIbUVFlAqi/EFFEyVRRGhJSIVTEUEIpSVVCbVhbR52wQ0W2F7bGNvsrtez7/Xs7My99/SP+/rdmTW1wWlWWu3szJ3f75zf75zv+Z6HcB5/3l3c59Qc3aDCpahcDVyI0COwFLQAEj9aBkrAUYX9wG7gdduq7V8z8qrHef6RD7vAwbZrHYGLgc8I3ACsUViIiBNvoKrhKwFR0HhXVUQEhWqouB4C+TnKs8dHnb0fZ/tvVsmDbX05C92kIncBHxfo1FgpQFBUBRFFFURAo+0kelBVESHzLcLvjQg8r6KPiFqv9I6+VPl/VXKgvc8RuBC4B/g00BreSrxipFxG7OhvcoM0fi7GGql0U6r6NOg3Bftg7+hLwa9dyYNLNhfEtr8C3INqV2iBAgoaSS4qkdDRDYZ3mm4nqQlLtL3GH2l8BukphN/nhKDfRPRHvaVd5V+bkgPtfV3AIyi/J4IVuVQqdLJY/f2FQssZPyU5BEFC/xXJCBaZf4DytAh/tra0c/i8KnmkfSuKd2kAP0Xpjc1Oot2T16bF/h9rmooyj9LpWunhGO/uA7mtt9S/57woebh9i6VY1wGPA100CJG+SsxSG1eVM26dGjIKIhnYyq4bvY4+P6HobetKO5//UEoebr/OUoItwE8UukUjcUTe536Y1xjNbZL/9Ey76xnFrFtpGLgJ6O8t7XxfJa0zmpT6G4DHVLU7jgEabaTzCKZI9Bs/o4lg8f8aO7Jm7jB6bf4vSbghWnMe++kMLUx6D3RtPXclD7X3LVX4HrAGkcyJCykKmrcn8WeRH4kRE8W8DzF+Y0IQvxEhmflx+HkSnerMmB5FH7OqtUXnpOSB9s050PtFuI6MPJrGMklhIXO6kZCqmt6UxL4qWf+IQk1s/vUWkrIk4yal0TEEtqB8Y6D92txZK2ljf1bhliREGOYT75swl4yi2uCuobLR3YgmZk0URzFMWoiBh8a1VCOlU8vQRC5A+FNBrj8r4Blo6+sW+DcVvURi8zF3S7A/8lGNhFVJuZoZH1WNd7Jmr4bXZZA22VLSp2IFJY6jZI45+vu6wCfni6HJTQbchAh3KHpxLISaYKMxeITvx3toBPGqJKdtshaN3U3qTFKjNTV933DT0ArUMCeT62oKSMmWyuUBcuuRZVutMyp5pH2oB7hFRKzUEzWDE/EJSwYQwkzCRAvV1KwSADLWShiehLeThBSVcA8xPjfuLMpYErPOmjgAt/u+v/qMSqryRaAnhXlFVDDpG5oqGJuxaKMHiJCGnNSxMf1ctC7+JSiejalIqlwCRrGlGVxXRUC1F/SzA61XNyp5uK1vkaC3A1bMjcUIHSLphuGCpkkakJeYmWZDRnwtNDye3LIZN+MPRdMYm4YRTehe6jWS7qX6JcRpbVAyQD+h0K2JnUkdlNctHpupGdQlPfXkMDLwoIbPmuChhpgGLYysQeKwFD8tZGgfqin5CE2iF5G+BiVF+AxCLvEBNfkKaBCEAgbxogJigWUhYqVOFoTPEsQRIz0I8+Q1oQ0GgMSctQ7MQzNSw2eyaVp9xgIUBH4/40ADbVuaQAZEpCuBdsNypJhHmgqI64LrII4Njo1YFtiRgn6A+j5UawSVOfR0BZ2dQ/0gY/KhgBKZv0m6TchNLSGh50lKJxHCpgRDJCX0kiLffizZ3HuqfwLAEZFLgdbkIaMGI4FitTRjL2uDIEh8LpMHqoBrYbkOWszjtDSHt17zCaZm8Mem0NlKIoJIfdZBInh9/ExEj8KHiQWpD0pyAIl7iXSibAB2xeZ6OUoucXaR0C0VVIRgYjo0lUAzPDJxeUtCAa2Uf4qCODZ2Wwu59T24vSuxFhZTs4/qHapGCKIuyYmQTow4GRe+klwWRUUz8TmUXxdFxTUAHFWuEsSSTP4jCbQF5QrM1cCxE0XU98Hz0WqNYK6KVj3w/dA/HBsp5JBCDlwXsW2spiLWmpVoeRbvxAhBeTbyZ6lLi6XOf9WQSBJCkd4eqB+g1TkC9bDcIrKgCEFgac27IlESYU0a+sTgVUkxBn9sEmlegE6fJpguE8zOhTfgOlgLmpAFRaxiHsnnENsOla/MoVNl1A+wCm7o100FnHU9BKMT+EMlNAgQy0oRPGGHmiXrfhAecGyjGqDVChSL5C+/kOKmS3HXduOfHKf69hEqr/0Kb7i0JgWe9r7DQqyo4ez1RQ0FcSzsjlac5UuxO5ZgLWwKQUhknmRa0UDRyhzB2CTeqTGCmTKSz2EtKKBVD+/YcHSrBuuJEdb3QBW7cwlWoYh/egqdmUNrPk5PJwuv/x0WfHIrweQMp5/bQXnHq/hD4+icFx6IZe0/7TsbLx3fHjgC7Zn0RTTJLCQinRoEuKu7KFy+AcnnwLLA8C8lSBfQbPJoFfJY3Z04KzvRyhzeeyN4wyUk5+CsWYE/eAp/bBIVCyQ62loN9yPdtN79JxQ2fRRpyocWNDGNVqs4nR1Ujx5n7MF/ZHbHHrTmIU4kl2PH17NooeMtBKYclEJSToygWRJgCAmxWBb+yDiSc0K79rw0PsXB2bDyhhxHo9jpurhre3AvWEHt+Elqx4ewl7UhORdvuBTV5ALcdV2seOZh7KWtSebhLGsHwBsucfKe+yk/24+Ii7guknMi1Dc4lKqDaqRkVCs1y/Yx6CSoJ0owM0P1wLvkLloTgkwd9IvrhErFYDRXRcuVFJlzTuizTQWsfJ5c70rcnk6qB46ilSr28g78wRE0qLH0H+7DWdaWQU0A9XxGH/g+5WdexCosJOVVMo8RiYVlORG6asIqxCSW9T7musy9eQCnZzlWUyF83nXA8/HHJqgdG8YbGiaYmUMKDtbihdgtLVjNC0MLqNbQqoeeGgvRGLAXN+Os7MTp7qQ6cBQtV9CZWXIXrm6glQD+qTHKO15G8guMFkMUN80cNNQpIFAvQlepCOQSFm5kEEQLJefg+VT27KNp61UEpyvUDh2jevg4OlvGXtZOYdMl5Nb2YHe0IsV8XfXO9FlFqx7B2CS1wVME45O4XUux8jkq+96i+vYRir99RX0aRTA1QzAyk0QBzSTY2SxIlQCkHCoJY8Ci+rKvIHWRWRHbxhscYfbFPXinxsHzyG1cR+Hqj+Ku7AxjqSr4QfgbL2dZIeIFAVrz0FoYY3Ed3NVdsGo5wfTpMMQMjTD60A/o7nu4oWTpj0+jc9WQYirzlECT+kzYR6n6M6GSqoMqsjplHppWzkTqEQQsi9q7QzgrlrLojz6F1bo4pHx+AJ6ffl8EHAutVPHeG8I7Nog/OROShWIRu6MFe8lisIRgcgZ/fAo8j8CrUNx8Rcbnk7+ny2igaSzPVr7SopgogpxYN7UrMlfkCMqWNH3JnoiI0WuLEyLHxh8Zo3ZsmEJbC+r56YGIIPkc3omTlF/cjT8yRu6itRS3XIbbuwprSTP2ksVUD75DZc8+qAUUrthAbuNavJMl/PIYrXffnuGj0nDYkRxiMjST1QqoHjEZzxsCX1DUSll8tsGRuWGjoDS97Vm0UqF47WUEs3NYhTy1EyeZfuYXEAQs+sKNFLdcjuRctFpDXJfKy29w+j93Utz0Wyz6/PW4q1agfmi+pfsfov2+u9PsxgAfEQnpopFaiVnsMrwtCoFvpEqiexQ8VHIG7TBtO017EpOIzMdxmPnZL/EnZ1jwu5uZevI5qgcGWHzr52j62DXhmfg++DbVg0eZevxJitdcybLvfQ2rpRk8D52tgG1TeW0v1sJm8pddlMlOzJuUYiHiz0YvTA15JL5hpsLGUEzQ/eB1sawJgaUNzpwUjObL+aKFbZvZ/3qNud37cLo7WPad+7FbmtGaFzEjZfKfn6C6/x3av/6X5C+5KCQT1VqC4mIJM0//kuabbgjzVCOjqA8jGRTN1ljMHsuIIm8llYH14y/PgGxX0bo+hlk80rQxGtmDmpU62yKYKROMz1B750T4HdchmJym9MC38cZHWf7Dvye/cT1arYYMyDjOYHyK6nvHKV5zWYOZZkLI5HSYoJtyJdX6lFeK6ivrSy+V6qt1PwepSl3xNyUIErEiSUxEjBKGIGF4OTnG6H3fZvzBH1J96zClv3sIe1krnd/6BlaYAiXrJUBlWdSODeEU27CXtmbvKpNnCrV3jqOBl5VLDFlCX6yG+qQ/TqTRLxBGgO5MAK5XOvNWXeEJQWwLyDG7Yzfl51/GWd5Byx/fHDIkOzRdAj9SLsxPxbapDhzG3biyIfibCqoqc3sPGHmoSec0mUMAOYJY/Q1KTo7NjrW0FX+McG/a0Elb24ljR4upGJRBUtNJeawLros/PsngjV/BWdVF/uJ15NavwVrcDCjBxDS1d9+j9s4xavuPsfThrzdk+Gac9E+OUn7xVcTNG9AQJdhmQgE/0cAeblDySv6bQ9L3OHArQleiQkL1DGpWV9WmsYqdCmrZUGjCHx6jPPgK5edezqxD5M8IOMs7MorV32R5+6vUjg5hufm60Zj40BVBjqL8y7qx7fNX0N0a+1V1m6oGqpr0ODIhSMVwbz1jh1jNISUJTVMcG/JRJpLPhSmS44bmV3DCssUZDsyfmGbyB08glh2RcaG+ahvtvI0gOHTGNsGqyf5AhO+LcCgOuBI5s2od19D6sDJ/qywtOqUMSs3WVWwVOQurkD+jL079+GdU9r4NtpMWsYyGUOQs+1Xkkd7xXcH79id7SzuPKPKgop5ZPZuHVWUvT9PEOcMl6+ZBRCSbNaghhW1lu2LR67m9bzP20KOIuNkwHa0VVRc9VO9fV+o/elZNWEW3oTyhaCY1QqUxiRWdn88bjCkEJzXaBJr1SzUmSOpChjdcYvjOe9GpubD02VAxT055m4U8ddad5vWlnWVB/lpU9mL2Jo3yiBqdDpW02B8fQlgITpE5bbHEt50ymaA2x4KPXYe7qiv9rir+qXEGP/9VagPDYDuZvqDZM0V1n8I9a0f7K+c0GGH7zgmFuxSGY5Q1aW1m8CEBKEnjl6TkuWGQSSTTwrOWLGTJn38RHDtB1mB8iqFb7mHujUOI4xozJenFR7sPK3xJfC2d8/THBRPbQeQ14E6BCTVonWT8yRhQSnp3Rvc3SdckQdvYbEVAqxUW3fxpcht6Ix+LTPT2v2F255uIm0t7IWZTJTzxEnCbIq/3Tuz6MBNZ11qqcqPCP4nQYtZVzBkb85ZVNAo1mtlFIlJvDhXay5rpfvYR3Au6UVW8wRGGv3wvlR2/wsoXMBszaoxgiEhJlTvXjfY/dTYTWdb7fbi2tDNQ4SmBmxQGs9NRkhlDUtGIgUSK1hecIxaV9C8rZVq+fDPu6hWoKrXDxxn6w7+g0v8mki809D2NUZdjwM1nq+C5TUm29fUKPIawJTlgo9BFgqJi2Gva0zBvXQPFXbOM7v94FLt1MZXd+xi65a/wT46B7UYmHiF6xql1O8od68Z2HjqXKUnrbB9cN9p/COFTKA+ATqRDCWLEP3Oy0XwvO5ASzM3Qeu9dWEsWMfPciwx+7qv4w+OI7WbaewbxnkD0PlT/4FwV/ECTy4fa+nKgmxD+FmQrUJhvzNOEezP+qe9T2LyB5du+xcy/vkDpaw+hE1XEtueZ79My8ILAg1iyq/dU/wcawv/AM+iHOvpaUD6h6B0gV6LaYhL4hsG0GJiCCit++l1mX/0fxr/9I/DTlrzGswkiE8AeVf2Oqr6wfmzXzG9k0D7x1Y5rC6hsisDpBqBd0KZwqACj7Q2qAbmNa8hf9hGmHn0ayRXiWw4ULQsMg/w76JOCvLa21F/hPPwI5/FnoOO6Jgg2ibIJ5SrQ9Yj0AE1JFd73Uc9D8vkK6BFBDgK7FX1F/WBvWI45vz//C346Qb+aqDLsAAAAAElFTkSuQmCC">
+</div>
+<div id="app">
+<div class="grid-container">
+<div class="grid-x grid-padding-y align-middle align-center">
+<div class="small-2 cell text-left hide-for-medium" style="padding-left: 1rem">
+<button class="menu-icon" type="button" data-toggle="offCanvasLeft"></button>
+</div>
+<div class="small-6 medium-12 cell align-left">
+<a href="/"><img src="/ndimg/fragrantica-logo-tagline-svg.svg" alt="Fragrantica" style="max-width: 18rem; min-height: 2.625rem"></a>
+</div>
+<div class="small-4 medium-2 cell text-right hide-for-medium">
+<div id="right-size-spacer" class="flex-container flex-dir-row align-justify align-middle" style="padding-left: 1rem; padding-right: 1rem;">
+<div class="hide-for-small-only"></div>
+<div style="width: 2.2rem; height: 2.2rem; overflow: hidden">
+<a href="/board/login.php">
+<svg version="1.1" baseProfile="tiny" id="Layer_11" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 128 128" xml:space="preserve">
+<g id="XMLID_486_">
+<path id="XMLID_494_" fill="#FFFFFF" d="M64,0C28.7,0,0,28.7,0,64s28.7,64,64,64s64-28.7,64-64S99.3,0,64,0z" />
+<g id="XMLID_487_">
+<path id="XMLID_493_" fill="#0F1626" d="M64,24c-1.3,0-2.6,0.1-3.9,0.2c-3.5,0.4-6.9,1.2-10.2,2.4c-2.1,0.8-4.1,1.8-6.2,3
+			c-4,2.4-7.6,5.5-10.6,9.1c0,0-2.2,1.9-0.6,4.2c1.3,1.6,3,1,3.4,0.8c1-0.5,1.8-1.3,2.6-2.1c3.3-3.1,6.6-5.9,10.6-8
+			c3.8-2,8-3.2,12.3-3.6c0.5,0,1-0.1,1.6-0.1c4.8-0.2,9.8,0.7,14.2,2.6c4,1.7,7.7,4.2,10.8,7.3c1.5,1.5,2.9,3.2,4.2,5
+			c2.5,3.7,4.2,7.8,5.1,12.2c0.5,2.2,0.7,4.5,0.7,6.9s-0.2,4.6-0.7,6.9c-0.9,4.4-2.6,8.5-5.1,12.2c-1.2,1.8-2.6,3.5-4.2,5
+			c-3.1,3.1-6.8,5.6-10.8,7.3C73,97.1,68.6,98,64,98c-2.1,0-4.3-0.3-6.9-0.8c-0.6-0.1-1.3-0.3-1.9-0.5l-0.5-0.2
+			c-1.4-0.4-2.8-0.9-4-1.4c-0.9-0.4-1.7-0.8-2.6-1.2c-1.3-0.7-2.5-1.5-3.7-2.3c-1-0.7-1.9-1.4-2.7-2.2c-1.6-1.4-2.2-1.9-3.6-3.5
+			c-0.1-0.1-0.4-0.5-0.7-0.8c-0.8-0.8-1.9-1.2-2.9-1.1c-1.1,0.1-1.6,0.8-1.5,0.8c-2.1,2.2,0.3,4.5,0.3,4.6c1.4,1.7,3,3.3,4.6,4.7
+			c0.1,0.1,0.2,0.2,0.3,0.3c0.1,0.1,0.2,0.1,0.3,0.2c1.7,1.4,3.4,2.7,5.4,3.9c1.9,1.1,3.9,2.1,6.2,3c2,0.8,4.1,1.3,6.2,1.8
+			c0.4,0.1,0.8,0.1,1.2,0.2c2.1,0.4,4.3,0.6,6.6,0.6c22.1,0,40-17.9,40-40c0-7.2-2-14.4-5.7-20.5c-3.6-6-8.8-11-14.9-14.5
+			C77.5,25.7,70.8,24,64,24z" />
+<path id="XMLID_488_" fill="#0F1626" d="M10.8,67.1l45,0L49,73.9c-1.2,1.2-1.2,3.1,0,4.2c1.1,1.1,3.1,1.1,4.2,0l11.9-11.9
+			c1.2-1.2,1.2-3.1,0-4.2l-11.9-12c-0.6-0.6-1.3-0.9-2.1-0.9c0,0,0,0,0,0c-0.8,0-1.5,0.3-2.1,0.9c-1.2,1.2-1.2,3.1,0,4.2l6.9,7
+			l-45.2,0C10.5,61.1,8,61.4,8,64C8,66.7,10.4,67,10.8,67.1z" />
+</g>
+</g>
+</svg>
+</a>
+</div>
+<a href="#" data-toggle="offCanvasRight" style="height: 2.2rem; width: 2.2rem; position: relative; overflow: hidden;">
+<svg version="1.1" baseProfile="tiny" id="Reviews" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 128 128" xml:space="preserve">
+<circle id="XMLID_849_" fill="#FFFFFF" cx="64" cy="64" r="64" />
+<g id="XMLID_191_">
+<g id="XMLID_845_">
+<path id="XMLID_846_" fill="#0F1626" d="M64,16c-26.5,0-48,17.9-48,40s21.5,40,48,40c1.2,0,3.8,0.2,3.8,0.2
+			c1.7,3,6.6,11.4,7.4,12.7c1.2,2.1,1.7,3.1,3.6,3.1c1.9,0,2.3-0.9,3.9-3.3C84,106.7,96,88.4,99.9,82.5C107.4,75.4,112,66.2,112,56
+			C112,33.9,90.5,16,64,16z M95.8,78.1c-0.3,0.3-0.7,0.7-0.9,1.1l-3.3,5l-10.9,16.6l-1.8,2.7l-1.6-2.8l-1.3-2.2l-3-5.3
+			c-1-1.7-2.7-2.8-4.6-2.9c0,0-3-0.3-4.4-0.3c-23.2,0-42-15.3-42-34s18.8-34,42-34s42,15.3,42,34C106,64.1,102.4,71.9,95.8,78.1z" />
+</g>
+<g id="XMLID_840_">
+<path id="XMLID_842_" fill="#0F1626" d="M74,51.8v20H54v-20H74 M76.2,45.8H51.8c-2.1,0-3.8,1.7-3.8,3.8V74c0,2.1,1.7,3.8,3.8,3.8
+			h24.3c2.1,0,3.8-1.7,3.8-3.8V49.7C80,47.6,78.3,45.8,76.2,45.8L76.2,45.8z" />
+<polygon id="XMLID_841_" fill="#0F1626" points="72.2,41.8 68,41.8 68,46.3 60,46.3 60,41.8 55.7,41.8 55.7,33.8 72.2,33.8 		" />
+</g>
+</g>
+</svg>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="off-canvas-wrapper grid-container">
+<div class="super-search-container">
+<supersearch><p></p></supersearch>
+</div>
+<div class="off-canvas position-left off-canvas-absolute reveal-for-medium" id="offCanvasLeft" data-off-canvas>
+<ul class="vertical medium-horizontal menu" data-responsive-menu="accordion medium-dropdown">
+<li class="hide-for-medium">
+<button class="close-button" aria-label="Close menu" type="button" data-close>
+<span aria-hidden="true">&times;</span>
+</button>&nbsp;
+</li>
+<li class="hide-for-medium"><a href="/board/" style="color: crimson"><i class="far fa-comments"></i><span> Forum</span></a></li>
+<li class="hide-for-medium"><a href="/fragram/" style="color: crimson"><i class="fas fa-camera fa-sm"></i><span> Fragram</span></a></li>
+<li><a href="/">News</a></li>
+<li class="is-dropdown-submenu-parent">
+<a href="/search/" onclick="event.preventDefault();">Perfumes</a>
+<ul class="menu vertical medium-horizontal nested is-active" style="z-index: 20;">
+<li><a href="/search/"><i class="fas fa-search-plus"></i><span> Search</span></a></li>
+<li class="is-dropdown-submenu-parent"><a href="/designers/"><i class="fas fa-sitemap"></i><span> Designers</span></a>
+<ul class="menu vertical medium-horizontal nested is-active">
+<li><a href="/country/"><i class="far fa-flag"></i><span> Countries</span></a></li>
+<li><a href="/parent-company/"><i class="fas fa-sort-amount-down"></i><span> Parent Companies</span></a></li>
+<li><a href="/industry/"><i class="fas fa-industry"></i><span> Industries</span></a></li>
+</ul>
+</li>
+<li class="hide-for-large"><a href="/notes/"><i class="fas fa-vials"></i><span> Notes</span></a></li>
+<li class="hide-for-large"><a href="/noses/"><i class="fas fa-id-badge"></i><span> Perfumers</span></a></li>
+<li><a href="/ingredients-search/"><i class="fas fa-vial"></i><span> Search by notes</span></a></li>
+<li><a href="/perfume-finder/"><i class="far fa-lightbulb"></i><span> Perfume Finder</span></a></li>
+<li><a href="/groups/"><i class="fas fa-project-diagram"></i><span> Groups</span></a></li>
+<li><a href="/colors/"><i class="fas fa-palette"></i><span> Colors</span></a></li>
+<li class="is-dropdown-submenu-parent"><a href="/awards2023/"><i class="fas fa-trophy"></i><span> Awards</span></a>
+<ul class="menu vertical medium-horizontal nested is-active">
+<li><a href="/awards2023/" style="color: crimson"><i class="fas fa-trophy"></i><span> Awards 2023</span></a></li>
+<li><a href="/awards2022/"><i class="fas fa-trophy"></i><span> Awards 2022</span></a></li>
+<li><a href="/awards2021/"><i class="fas fa-trophy"></i><span> Awards 2021</span></a></li>
+<li><a href="/awards2020/"><i class="fas fa-trophy"></i><span> Awards 2020</span></a></li>
+<li><a href="/awards2019/"><i class="fas fa-trophy"></i><span> Awards 2019</span></a></li>
+<li><a href="/awards2018/"><i class="fas fa-trophy"></i><span> Awards 2018</span></a></li>
+<li><a href="/awards/"><i class="fas fa-trophy"></i><span> Awards 2017</span></a></li>
+</ul>
+</li>
+<li><a href="/about-us.phtml" class="hide-for-medium">About</a></li>
+</ul>
+</li>
+<li class="show-for-large"><a href="/notes/">Notes</a></li>
+<li class="show-for-large"><a href="/noses/">Perfumers</a></li>
+<li class="hide-for-small-only"><a href="/board/" style="color: crimson"><i class="far fa-comments"></i><span> Forum</span></a></li>
+<li class="hide-for-small-only"><a href="/fragram/" style="color: crimson"><i class="fas fa-camera fa-sm"></i><span> Fragram</span></a></li>
+<li><a href="/about-us.phtml" class="show-for-medium">About</a></li>
+</ul>
+</div>
+
+<div data-fuse="22384457061" class="fuseheader"></div>
+<div class="grid-container" id="main-content">
+<div class="grid-x grid-margin-x">
+<div class="small-12 medium-8 large-9 cell">
+<script2 async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script2>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5799249617816528" data-ad-slot="6679358141" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script2>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script2>
+<perfume-search>
+<div>
+<div class="grid-container">
+<div class="grid-x grid-margin-x grid-margin-y small-up-3 medium-up-3 large-up-4 text-center">
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.1.jpg" width="75" height="85" alt="perfume Orange Tonic" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Azzaro/Orange-Tonic-1.html"> Azzaro Orange Tonic
+<span class="link-span" aria-label="Link to Azzaro Orange Tonic female &nbsp;" title="Azzaro Orange Tonic female &nbsp;"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>&nbsp;</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.3.jpg" width="75" height="85" alt="perfume Amarige" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Givenchy/Amarige-3.html"> Givenchy Amarige
+<span class="link-span" aria-label="Link to Givenchy Amarige female 1991" title="Givenchy Amarige female 1991"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1991</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.4.jpg" width="75" height="85" alt="perfume Organza" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Givenchy/Organza-4.html"> Givenchy Organza
+<span class="link-span" aria-label="Link to Givenchy Organza female 1996" title="Givenchy Organza female 1996"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1996</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.5.jpg" width="75" height="85" alt="perfume J'adore Eau de Toilette 2002" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Dior/J-adore-Eau-de-Toilette-2002-5.html"> Dior J'adore Eau de Toilette 2002
+<span class="link-span" aria-label="Link to Dior J'adore Eau de Toilette 2002 female 2002" title="Dior J'adore Eau de Toilette 2002 female 2002"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2002</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.6.jpg" width="75" height="85" alt="perfume Arpège" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Lanvin/Arpege-6.html"> Lanvin Arpège
+<span class="link-span" aria-label="Link to Lanvin Arpège female 1927" title="Lanvin Arpège female 1927"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1927</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.7.jpg" width="75" height="85" alt="perfume Equipage" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Hermes/Equipage-7.html"> Hermès Equipage
+<span class="link-span" aria-label="Link to Hermès Equipage male 1970" title="Hermès Equipage male 1970"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(223,235,255,0.3),rgba(223,235,255,0.0));">
+<span>male</span>
+<span>1970</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.8.jpg" width="75" height="85" alt="perfume Rouge Hermes Eau Delicate" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Hermes/Rouge-Hermes-Eau-Delicate-8.html"> Hermès Rouge Hermes Eau Delicate
+<span class="link-span" aria-label="Link to Hermès Rouge Hermes Eau Delicate female 2002" title="Hermès Rouge Hermes Eau Delicate female 2002"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2002</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.9.jpg" width="75" height="85" alt="perfume Eau des Merveilles" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Hermes/Eau-des-Merveilles-9.html"> Hermès Eau des Merveilles
+<span class="link-span" aria-label="Link to Hermès Eau des Merveilles female 2004" title="Hermès Eau des Merveilles female 2004"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2004</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.10.jpg" width="75" height="85" alt="perfume Parfum des Merveilles" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Hermes/Parfum-des-Merveilles-10.html"> Hermès Parfum des Merveilles
+<span class="link-span" aria-label="Link to Hermès Parfum des Merveilles female 2005" title="Hermès Parfum des Merveilles female 2005"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2005</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.11.jpg" width="75" height="85" alt="perfume Chanel N°19" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Chanel/Chanel-N019-11.html"> Chanel Chanel N°19
+<span class="link-span" aria-label="Link to Chanel Chanel N°19 female 1970" title="Chanel Chanel N°19 female 1970"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1970</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.12.jpg" width="75" height="85" alt="perfume Cristalle Eau de Toilette" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Chanel/Cristalle-Eau-de-Toilette-12.html"> Chanel Cristalle Eau de Toilette
+<span class="link-span" aria-label="Link to Chanel Cristalle Eau de Toilette female 1974" title="Chanel Cristalle Eau de Toilette female 1974"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1974</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.13.jpg" width="75" height="85" alt="perfume Apres l'Ondee" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Guerlain/Apres-l-Ondee-13.html"> Guerlain Apres l'Ondee
+<span class="link-span" aria-label="Link to Guerlain Apres l'Ondee female 1906" title="Guerlain Apres l'Ondee female 1906"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1906</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.14.jpg" width="75" height="85" alt="perfume Arpege Pour Homme" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Lanvin/Arpege-Pour-Homme-14.html"> Lanvin Arpege Pour Homme
+<span class="link-span" aria-label="Link to Lanvin Arpege Pour Homme male 2005" title="Lanvin Arpege Pour Homme male 2005"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(223,235,255,0.3),rgba(223,235,255,0.0));">
+<span>male</span>
+<span>2005</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.15.jpg" width="75" height="85" alt="perfume Bandit" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Robert-Piguet/Bandit-15.html"> Robert Piguet Bandit
+<span class="link-span" aria-label="Link to Robert Piguet Bandit female 1944" title="Robert Piguet Bandit female 1944"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1944</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.16.jpg" width="75" height="85" alt="perfume Habit Rouge Eau de Toilette" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Guerlain/Habit-Rouge-Eau-de-Toilette-16.html"> Guerlain Habit Rouge Eau de Toilette
+<span class="link-span" aria-label="Link to Guerlain Habit Rouge Eau de Toilette male 1965" title="Guerlain Habit Rouge Eau de Toilette male 1965"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(223,235,255,0.3),rgba(223,235,255,0.0));">
+<span>male</span>
+<span>1965</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.17.jpg" width="75" height="85" alt="perfume Terre d'Hermès" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Hermes/Terre-d-Hermes-17.html"> Hermès Terre d'Hermès
+<span class="link-span" aria-label="Link to Hermès Terre d'Hermès male 2006" title="Hermès Terre d'Hermès male 2006"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(223,235,255,0.3),rgba(223,235,255,0.0));">
+<span>male</span>
+<span>2006</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.18.jpg" width="75" height="85" alt="perfume Un Jardin Sur Le Nil" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Hermes/Un-Jardin-Sur-Le-Nil-18.html"> Hermès Un Jardin Sur Le Nil
+<span class="link-span" aria-label="Link to Hermès Un Jardin Sur Le Nil unisex 2005" title="Hermès Un Jardin Sur Le Nil unisex 2005"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(242,255,223,0.3),rgba(242,255,223,0.0));">
+<span>unisex</span>
+<span>2005</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.19.jpg" width="75" height="85" alt="perfume Un Jardin en Méditerranée" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Hermes/Un-Jardin-en-Mediterranee-19.html"> Hermès Un Jardin en Méditerranée
+<span class="link-span" aria-label="Link to Hermès Un Jardin en Méditerranée unisex 2003" title="Hermès Un Jardin en Méditerranée unisex 2003"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(242,255,223,0.3),rgba(242,255,223,0.0));">
+<span>unisex</span>
+<span>2003</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.20.jpg" width="75" height="85" alt="perfume Hiris" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Hermes/Hiris-20.html"> Hermès Hiris
+<span class="link-span" aria-label="Link to Hermès Hiris female 1999" title="Hermès Hiris female 1999"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1999</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.21.jpg" width="75" height="85" alt="perfume Rouge Hermes" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Hermes/Rouge-Hermes-21.html"> Hermès Rouge Hermes
+<span class="link-span" aria-label="Link to Hermès Rouge Hermes female 2000" title="Hermès Rouge Hermes female 2000"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2000</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.22.jpg" width="75" height="85" alt="perfume 24 Faubourg Eau Delicate" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Hermes/24-Faubourg-Eau-Delicate-22.html"> Hermès 24 Faubourg Eau Delicate
+<span class="link-span" aria-label="Link to Hermès 24 Faubourg Eau Delicate female 2003" title="Hermès 24 Faubourg Eau Delicate female 2003"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2003</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.23.jpg" width="75" height="85" alt="perfume Caleche" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Hermes/Caleche-23.html"> Hermès Caleche
+<span class="link-span" aria-label="Link to Hermès Caleche female 1961" title="Hermès Caleche female 1961"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1961</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.24.jpg" width="75" height="85" alt="perfume Caleche Eau Delicate" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Hermes/Caleche-Eau-Delicate-24.html"> Hermès Caleche Eau Delicate
+<span class="link-span" aria-label="Link to Hermès Caleche Eau Delicate female 2003" title="Hermès Caleche Eau Delicate female 2003"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2003</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.25.jpg" width="75" height="85" alt="perfume Bel Ami" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Hermes/Bel-Ami-25.html"> Hermès Bel Ami
+<span class="link-span" aria-label="Link to Hermès Bel Ami male 1986" title="Hermès Bel Ami male 1986"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(223,235,255,0.3),rgba(223,235,255,0.0));">
+<span>male</span>
+<span>1986</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.26.jpg" width="75" height="85" alt="perfume Rocabar" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Hermes/Rocabar-26.html"> Hermès Rocabar
+<span class="link-span" aria-label="Link to Hermès Rocabar male 1998" title="Hermès Rocabar male 1998"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(223,235,255,0.3),rgba(223,235,255,0.0));">
+<span>male</span>
+<span>1998</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.27.jpg" width="75" height="85" alt="perfume 24 Faubourg" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Hermes/24-Faubourg-27.html"> Hermès 24 Faubourg
+<span class="link-span" aria-label="Link to Hermès 24 Faubourg female 1995" title="Hermès 24 Faubourg female 1995"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1995</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.28.jpg" width="75" height="85" alt="perfume Femme Rochas" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Rochas/Femme-Rochas-28.html"> Rochas Femme Rochas
+<span class="link-span" aria-label="Link to Rochas Femme Rochas female 1944" title="Rochas Femme Rochas female 1944"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1944</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.29.jpg" width="75" height="85" alt="perfume Tabac Blond" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Caron/Tabac-Blond-29.html"> Caron Tabac Blond
+<span class="link-span" aria-label="Link to Caron Tabac Blond female 1919" title="Caron Tabac Blond female 1919"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1919</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.30.jpg" width="75" height="85" alt="perfume Visit for Women" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Azzaro/Visit-for-Women-30.html"> Azzaro Visit for Women
+<span class="link-span" aria-label="Link to Azzaro Visit for Women female 2004" title="Azzaro Visit for Women female 2004"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2004</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.31.jpg" width="75" height="85" alt="perfume Angel Schlesser Femme" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Angel-Schlesser/Angel-Schlesser-Femme-31.html"> Angel Schlesser Angel Schlesser Femme
+<span class="link-span" aria-label="Link to Angel Schlesser Angel Schlesser Femme female 1999" title="Angel Schlesser Angel Schlesser Femme female 1999"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1999</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.32.jpg" width="75" height="85" alt="perfume Angel Schlesser Essential" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Angel-Schlesser/Angel-Schlesser-Essential-32.html"> Angel Schlesser Angel Schlesser Essential
+<span class="link-span" aria-label="Link to Angel Schlesser Angel Schlesser Essential female 2005" title="Angel Schlesser Angel Schlesser Essential female 2005"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2005</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.33.jpg" width="75" height="85" alt="perfume Very Irresistible" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Givenchy/Very-Irresistible-33.html"> Givenchy Very Irresistible
+<span class="link-span" aria-label="Link to Givenchy Very Irresistible female 2003" title="Givenchy Very Irresistible female 2003"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2003</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.34.jpg" width="75" height="85" alt="perfume Very Irresistible for men" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Givenchy/Very-Irresistible-for-men-34.html"> Givenchy Very Irresistible for men
+<span class="link-span" aria-label="Link to Givenchy Very Irresistible for men male 2005" title="Givenchy Very Irresistible for men male 2005"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(223,235,255,0.3),rgba(223,235,255,0.0));">
+<span>male</span>
+<span>2005</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.35.jpg" width="75" height="85" alt="perfume Hot Couture" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Givenchy/Hot-Couture-35.html"> Givenchy Hot Couture
+<span class="link-span" aria-label="Link to Givenchy Hot Couture female 2000" title="Givenchy Hot Couture female 2000"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2000</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.36.jpg" width="75" height="85" alt="perfume Ysatis" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Givenchy/Ysatis-36.html"> Givenchy Ysatis
+<span class="link-span" aria-label="Link to Givenchy Ysatis female 1984" title="Givenchy Ysatis female 1984"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1984</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.37.jpg" width="75" height="85" alt="perfume Givenchy pour Homme" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Givenchy/Givenchy-pour-Homme-37.html"> Givenchy Givenchy pour Homme
+<span class="link-span" aria-label="Link to Givenchy Givenchy pour Homme male 2002" title="Givenchy Givenchy pour Homme male 2002"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(223,235,255,0.3),rgba(223,235,255,0.0));">
+<span>male</span>
+<span>2002</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.38.jpg" width="75" height="85" alt="perfume Givenchy pour Homme Blue Label" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Givenchy/Givenchy-pour-Homme-Blue-Label-38.html"> Givenchy Givenchy pour Homme Blue Label
+<span class="link-span" aria-label="Link to Givenchy Givenchy pour Homme Blue Label male 2004" title="Givenchy Givenchy pour Homme Blue Label male 2004"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(223,235,255,0.3),rgba(223,235,255,0.0));">
+<span>male</span>
+<span>2004</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.39.jpg" width="75" height="85" alt="perfume Pi" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Givenchy/Pi-39.html"> Givenchy Pi
+<span class="link-span" aria-label="Link to Givenchy Pi male 1998" title="Givenchy Pi male 1998"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(223,235,255,0.3),rgba(223,235,255,0.0));">
+<span>male</span>
+<span>1998</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.40.jpg" width="75" height="85" alt="perfume L'Homme de Coeur" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Divine/L-Homme-de-Coeur-40.html"> Divine L'Homme de Coeur
+<span class="link-span" aria-label="Link to Divine L'Homme de Coeur male 2002" title="Divine L'Homme de Coeur male 2002"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(223,235,255,0.3),rgba(223,235,255,0.0));">
+<span>male</span>
+<span>2002</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.41.jpg" width="75" height="85" alt="perfume L'Ame Soeur" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Divine/L-Ame-Soeur-41.html"> Divine L'Ame Soeur
+<span class="link-span" aria-label="Link to Divine L'Ame Soeur female 2004" title="Divine L'Ame Soeur female 2004"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2004</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.42.jpg" width="75" height="85" alt="perfume Divine" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Divine/Divine-42.html"> Divine Divine
+<span class="link-span" aria-label="Link to Divine Divine female 1986" title="Divine Divine female 1986"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1986</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.43.jpg" width="75" height="85" alt="perfume L'Homme Sage" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Divine/L-Homme-Sage-43.html"> Divine L'Homme Sage
+<span class="link-span" aria-label="Link to Divine L'Homme Sage male 2005" title="Divine L'Homme Sage male 2005"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(223,235,255,0.3),rgba(223,235,255,0.0));">
+<span>male</span>
+<span>2005</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.44.jpg" width="75" height="85" alt="perfume L'Infante" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Divine/L-Infante-44.html"> Divine L'Infante
+<span class="link-span" aria-label="Link to Divine L'Infante female 2000" title="Divine L'Infante female 2000"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2000</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.45.jpg" width="75" height="85" alt="perfume Love is All" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Guerlain/Love-is-All-45.html"> Guerlain Love is All
+<span class="link-span" aria-label="Link to Guerlain Love is All female 2005" title="Guerlain Love is All female 2005"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2005</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.46.jpg" width="75" height="85" alt="perfume Nahema" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Guerlain/Nahema-46.html"> Guerlain Nahema
+<span class="link-span" aria-label="Link to Guerlain Nahema female 1979" title="Guerlain Nahema female 1979"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1979</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.47.jpg" width="75" height="85" alt="perfume Parure" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Guerlain/Parure-47.html"> Guerlain Parure
+<span class="link-span" aria-label="Link to Guerlain Parure female 1975" title="Guerlain Parure female 1975"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1975</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.48.jpg" width="75" height="85" alt="perfume Guerlain Chant d'Aromes" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Guerlain/Guerlain-Chant-d-Aromes-48.html"> Guerlain Guerlain Chant d'Aromes
+<span class="link-span" aria-label="Link to Guerlain Guerlain Chant d'Aromes female 1962" title="Guerlain Guerlain Chant d'Aromes female 1962"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1962</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.49.jpg" width="75" height="85" alt="perfume Vol de Nuit" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Guerlain/Vol-de-Nuit-49.html"> Guerlain Vol de Nuit
+<span class="link-span" aria-label="Link to Guerlain Vol de Nuit female 1933" title="Guerlain Vol de Nuit female 1933"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1933</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.50.jpg" width="75" height="85" alt="perfume Chamade" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Guerlain/Chamade-50.html"> Guerlain Chamade
+<span class="link-span" aria-label="Link to Guerlain Chamade female 1969" title="Guerlain Chamade female 1969"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1969</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.51.jpg" width="75" height="85" alt="perfume L'Instant de Guerlain" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Guerlain/L-Instant-de-Guerlain-51.html"> Guerlain L'Instant de Guerlain
+<span class="link-span" aria-label="Link to Guerlain L'Instant de Guerlain female 2003" title="Guerlain L'Instant de Guerlain female 2003"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2003</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.52.jpg" width="75" height="85" alt="perfume L'Instant de Guerlain pour Homme" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Guerlain/L-Instant-de-Guerlain-pour-Homme-52.html"> Guerlain L'Instant de Guerlain pour Homme
+<span class="link-span" aria-label="Link to Guerlain L'Instant de Guerlain pour Homme male 2004" title="Guerlain L'Instant de Guerlain pour Homme male 2004"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(223,235,255,0.3),rgba(223,235,255,0.0));">
+<span>male</span>
+<span>2004</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.53.jpg" width="75" height="85" alt="perfume Shalimar Eau de Parfum" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Guerlain/Shalimar-Eau-de-Parfum-53.html"> Guerlain Shalimar Eau de Parfum
+<span class="link-span" aria-label="Link to Guerlain Shalimar Eau de Parfum female 1990" title="Guerlain Shalimar Eau de Parfum female 1990"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1990</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.54.jpg" width="75" height="85" alt="perfume Shalimar Legere" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Guerlain/Shalimar-Legere-54.html"> Guerlain Shalimar Legere
+<span class="link-span" aria-label="Link to Guerlain Shalimar Legere female 2003" title="Guerlain Shalimar Legere female 2003"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2003</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.55.jpg" width="75" height="85" alt="perfume Samsara Eau de Parfum" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Guerlain/Samsara-Eau-de-Parfum-55.html"> Guerlain Samsara Eau de Parfum
+<span class="link-span" aria-label="Link to Guerlain Samsara Eau de Parfum female 1989" title="Guerlain Samsara Eau de Parfum female 1989"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1989</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.56.jpg" width="75" height="85" alt="perfume Aqua Allegoria Tutti Kiwi" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Guerlain/Aqua-Allegoria-Tutti-Kiwi-56.html"> Guerlain Aqua Allegoria Tutti Kiwi
+<span class="link-span" aria-label="Link to Guerlain Aqua Allegoria Tutti Kiwi female 2005" title="Guerlain Aqua Allegoria Tutti Kiwi female 2005"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2005</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.57.jpg" width="75" height="85" alt="perfume Aqua Allegoria Pamplelune" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Guerlain/Aqua-Allegoria-Pamplelune-57.html"> Guerlain Aqua Allegoria Pamplelune
+<span class="link-span" aria-label="Link to Guerlain Aqua Allegoria Pamplelune female 1999" title="Guerlain Aqua Allegoria Pamplelune female 1999"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1999</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.58.jpg" width="75" height="85" alt="perfume Aqua Allegoria Gentiana" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Guerlain/Aqua-Allegoria-Gentiana-58.html"> Guerlain Aqua Allegoria Gentiana
+<span class="link-span" aria-label="Link to Guerlain Aqua Allegoria Gentiana female 2001" title="Guerlain Aqua Allegoria Gentiana female 2001"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2001</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.59.jpg" width="75" height="85" alt="perfume Aqua Allegoria Grosellina" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Guerlain/Aqua-Allegoria-Grosellina-59.html"> Guerlain Aqua Allegoria Grosellina
+<span class="link-span" aria-label="Link to Guerlain Aqua Allegoria Grosellina female 2005" title="Guerlain Aqua Allegoria Grosellina female 2005"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2005</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.60.jpg" width="75" height="85" alt="perfume Aqua Allegoria Herba Fresca" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Guerlain/Aqua-Allegoria-Herba-Fresca-60.html"> Guerlain Aqua Allegoria Herba Fresca
+<span class="link-span" aria-label="Link to Guerlain Aqua Allegoria Herba Fresca unisex 1999" title="Guerlain Aqua Allegoria Herba Fresca unisex 1999"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(242,255,223,0.3),rgba(242,255,223,0.0));">
+<span>unisex</span>
+<span>1999</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.61.jpg" width="75" height="85" alt="perfume Aqua Allegoria Lavande Velours" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Guerlain/Aqua-Allegoria-Lavande-Velours-61.html"> Guerlain Aqua Allegoria Lavande Velours
+<span class="link-span" aria-label="Link to Guerlain Aqua Allegoria Lavande Velours unisex 1999" title="Guerlain Aqua Allegoria Lavande Velours unisex 1999"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(242,255,223,0.3),rgba(242,255,223,0.0));">
+<span>unisex</span>
+<span>1999</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.62.jpg" width="75" height="85" alt="perfume Aqua Allegoria Lilia Bella" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Guerlain/Aqua-Allegoria-Lilia-Bella-62.html"> Guerlain Aqua Allegoria Lilia Bella
+<span class="link-span" aria-label="Link to Guerlain Aqua Allegoria Lilia Bella female 2001" title="Guerlain Aqua Allegoria Lilia Bella female 2001"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2001</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.63.jpg" width="75" height="85" alt="perfume Aqua Allegoria Rosa Magnifica" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Guerlain/Aqua-Allegoria-Rosa-Magnifica-63.html"> Guerlain Aqua Allegoria Rosa Magnifica
+<span class="link-span" aria-label="Link to Guerlain Aqua Allegoria Rosa Magnifica female 1999" title="Guerlain Aqua Allegoria Rosa Magnifica female 1999"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1999</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.64.jpg" width="75" height="85" alt="perfume Aqua Allegoria Ylang & Vanille" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Guerlain/Aqua-Allegoria-Ylang-Vanille-64.html"> Guerlain Aqua Allegoria Ylang & Vanille
+<span class="link-span" aria-label="Link to Guerlain Aqua Allegoria Ylang & Vanille female 1999" title="Guerlain Aqua Allegoria Ylang & Vanille female 1999"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1999</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.65.jpg" width="75" height="85" alt="perfume Aqua Allegoria Foliflora" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Guerlain/Aqua-Allegoria-Foliflora-65.html"> Guerlain Aqua Allegoria Foliflora
+<span class="link-span" aria-label="Link to Guerlain Aqua Allegoria Foliflora female 2003" title="Guerlain Aqua Allegoria Foliflora female 2003"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2003</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.66.jpg" width="75" height="85" alt="perfume Champs Elysees Eau de Toilette" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Guerlain/Champs-Elysees-Eau-de-Toilette-66.html"> Guerlain Champs Elysees Eau de Toilette
+<span class="link-span" aria-label="Link to Guerlain Champs Elysees Eau de Toilette female 1996" title="Guerlain Champs Elysees Eau de Toilette female 1996"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1996</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.67.jpg" width="75" height="85" alt="perfume Too Much" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Guerlain/Too-Much-67.html"> Guerlain Too Much
+<span class="link-span" aria-label="Link to Guerlain Too Much female 2000" title="Guerlain Too Much female 2000"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2000</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.68.jpg" width="75" height="85" alt="perfume Colours of Love" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Guerlain/Colours-of-Love-68.html"> Guerlain Colours of Love
+<span class="link-span" aria-label="Link to Guerlain Colours of Love female 2005" title="Guerlain Colours of Love female 2005"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2005</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.69.jpg" width="75" height="85" alt="perfume Vetiver" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Guerlain/Vetiver-69.html"> Guerlain Vetiver
+<span class="link-span" aria-label="Link to Guerlain Vetiver male 2000" title="Guerlain Vetiver male 2000"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(223,235,255,0.3),rgba(223,235,255,0.0));">
+<span>male</span>
+<span>2000</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.70.jpg" width="75" height="85" alt="perfume Kenzo Jungle L'Elephant" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Kenzo/Kenzo-Jungle-L-Elephant-70.html"> Kenzo Kenzo Jungle L'Elephant
+<span class="link-span" aria-label="Link to Kenzo Kenzo Jungle L'Elephant female 1996" title="Kenzo Kenzo Jungle L'Elephant female 1996"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1996</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.71.jpg" width="75" height="85" alt="perfume Kenzo Jungle Homme" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Kenzo/Kenzo-Jungle-Homme-71.html"> Kenzo Kenzo Jungle Homme
+<span class="link-span" aria-label="Link to Kenzo Kenzo Jungle Homme male 1998" title="Kenzo Kenzo Jungle Homme male 1998"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(223,235,255,0.3),rgba(223,235,255,0.0));">
+<span>male</span>
+<span>1998</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.72.jpg" width="75" height="85" alt="perfume Flower by Kenzo" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Kenzo/Flower-by-Kenzo-72.html"> Kenzo Flower by Kenzo
+<span class="link-span" aria-label="Link to Kenzo Flower by Kenzo female 2000" title="Kenzo Flower by Kenzo female 2000"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2000</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.73.jpg" width="75" height="85" alt="perfume Flower by Kenzo Le Parfum" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Kenzo/Flower-by-Kenzo-Le-Parfum-73.html"> Kenzo Flower by Kenzo Le Parfum
+<span class="link-span" aria-label="Link to Kenzo Flower by Kenzo Le Parfum female 2003" title="Kenzo Flower by Kenzo Le Parfum female 2003"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2003</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.74.jpg" width="75" height="85" alt="perfume Flower by Kenzo Oriental " />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Kenzo/Flower-by-Kenzo-Oriental-74.html"> Kenzo Flower by Kenzo Oriental
+<span class="link-span" aria-label="Link to Kenzo Flower by Kenzo Oriental  female 2005" title="Kenzo Flower by Kenzo Oriental  female 2005"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2005</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.75.jpg" width="75" height="85" alt="perfume Air" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Kenzo/Air-75.html"> Kenzo Air
+<span class="link-span" aria-label="Link to Kenzo Air male 2003" title="Kenzo Air male 2003"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(223,235,255,0.3),rgba(223,235,255,0.0));">
+<span>male</span>
+<span>2003</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.76.jpg" width="75" height="85" alt="perfume Summer by Kenzo" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Kenzo/Summer-by-Kenzo-76.html"> Kenzo Summer by Kenzo
+<span class="link-span" aria-label="Link to Kenzo Summer by Kenzo female 2005" title="Kenzo Summer by Kenzo female 2005"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2005</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.77.jpg" width="75" height="85" alt="perfume Kenzo pour Homme" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Kenzo/Kenzo-pour-Homme-77.html"> Kenzo Kenzo pour Homme
+<span class="link-span" aria-label="Link to Kenzo Kenzo pour Homme male 1991" title="Kenzo Kenzo pour Homme male 1991"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(223,235,255,0.3),rgba(223,235,255,0.0));">
+<span>male</span>
+<span>1991</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.78.jpg" width="75" height="85" alt="perfume L'Eau par Kenzo" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Kenzo/L-Eau-par-Kenzo-78.html"> Kenzo L'Eau par Kenzo
+<span class="link-span" aria-label="Link to Kenzo L'Eau par Kenzo female 1996" title="Kenzo L'Eau par Kenzo female 1996"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1996</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.79.jpg" width="75" height="85" alt="perfume L'Eau par Kenzo pour Homme" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Kenzo/L-Eau-par-Kenzo-pour-Homme-79.html"> Kenzo L'Eau par Kenzo pour Homme
+<span class="link-span" aria-label="Link to Kenzo L'Eau par Kenzo pour Homme male 1999" title="Kenzo L'Eau par Kenzo pour Homme male 1999"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(223,235,255,0.3),rgba(223,235,255,0.0));">
+<span>male</span>
+<span>1999</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.80.jpg" width="75" height="85" alt="perfume Parfum d'Ete 2002" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Kenzo/Parfum-d-Ete-2002-80.html"> Kenzo Parfum d'Ete 2002
+<span class="link-span" aria-label="Link to Kenzo Parfum d'Ete 2002 female 2002" title="Kenzo Parfum d'Ete 2002 female 2002"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2002</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.81.jpg" width="75" height="85" alt="perfume 5th Avenue" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Elizabeth-Arden/5th-Avenue-81.html"> Elizabeth Arden 5th Avenue
+<span class="link-span" aria-label="Link to Elizabeth Arden 5th Avenue female 1996" title="Elizabeth Arden 5th Avenue female 1996"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1996</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.82.jpg" width="75" height="85" alt="perfume 5th Avenue After Five" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Elizabeth-Arden/5th-Avenue-After-Five-82.html"> Elizabeth Arden 5th Avenue After Five
+<span class="link-span" aria-label="Link to Elizabeth Arden 5th Avenue After Five female 2005" title="Elizabeth Arden 5th Avenue After Five female 2005"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2005</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.83.jpg" width="75" height="85" alt="perfume Green Tea" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Elizabeth-Arden/Green-Tea-83.html"> Elizabeth Arden Green Tea
+<span class="link-span" aria-label="Link to Elizabeth Arden Green Tea female 1999" title="Elizabeth Arden Green Tea female 1999"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1999</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.84.jpg" width="75" height="85" alt="perfume Provocative Woman" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Elizabeth-Arden/Provocative-Woman-84.html"> Elizabeth Arden Provocative Woman
+<span class="link-span" aria-label="Link to Elizabeth Arden Provocative Woman female 2004" title="Elizabeth Arden Provocative Woman female 2004"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2004</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.85.jpg" width="75" height="85" alt="perfume Provocative Interlude" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Elizabeth-Arden/Provocative-Interlude-85.html"> Elizabeth Arden Provocative Interlude
+<span class="link-span" aria-label="Link to Elizabeth Arden Provocative Interlude female 2006" title="Elizabeth Arden Provocative Interlude female 2006"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2006</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.86.jpg" width="75" height="85" alt="perfume Red Door" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Elizabeth-Arden/Red-Door-86.html"> Elizabeth Arden Red Door
+<span class="link-span" aria-label="Link to Elizabeth Arden Red Door female 1989" title="Elizabeth Arden Red Door female 1989"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1989</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.87.jpg" width="75" height="85" alt="perfume Red Door Revealed" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Elizabeth-Arden/Red-Door-Revealed-87.html"> Elizabeth Arden Red Door Revealed
+<span class="link-span" aria-label="Link to Elizabeth Arden Red Door Revealed female 2003" title="Elizabeth Arden Red Door Revealed female 2003"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2003</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.88.jpg" width="75" height="85" alt="perfume Arden Beauty" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Elizabeth-Arden/Arden-Beauty-88.html"> Elizabeth Arden Arden Beauty
+<span class="link-span" aria-label="Link to Elizabeth Arden Arden Beauty female 2002" title="Elizabeth Arden Arden Beauty female 2002"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2002</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.89.jpg" width="75" height="85" alt="perfume Splendor" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Elizabeth-Arden/Splendor-89.html"> Elizabeth Arden Splendor
+<span class="link-span" aria-label="Link to Elizabeth Arden Splendor female 1998" title="Elizabeth Arden Splendor female 1998"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1998</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.90.jpg" width="75" height="85" alt="perfume Eau Fraiche" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Elizabeth-Arden/Eau-Fraiche-90.html"> Elizabeth Arden Eau Fraiche
+<span class="link-span" aria-label="Link to Elizabeth Arden Eau Fraiche female 1986" title="Elizabeth Arden Eau Fraiche female 1986"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1986</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.91.jpg" width="75" height="85" alt="perfume Blue Grass" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Elizabeth-Arden/Blue-Grass-91.html"> Elizabeth Arden Blue Grass
+<span class="link-span" aria-label="Link to Elizabeth Arden Blue Grass female 1936" title="Elizabeth Arden Blue Grass female 1936"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1936</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.92.jpg" width="75" height="85" alt="perfume Cinéma" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Yves-Saint-Laurent/Cinema-92.html"> Yves Saint Laurent Cinéma
+<span class="link-span" aria-label="Link to Yves Saint Laurent Cinéma female 2004" title="Yves Saint Laurent Cinéma female 2004"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2004</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.93.jpg" width="75" height="85" alt="perfume Opium (1977)" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Yves-Saint-Laurent/Opium-1977-93.html"> Yves Saint Laurent Opium (1977)
+<span class="link-span" aria-label="Link to Yves Saint Laurent Opium (1977) female 1977" title="Yves Saint Laurent Opium (1977) female 1977"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1977</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.94.jpg" width="75" height="85" alt="perfume Paris" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Yves-Saint-Laurent/Paris-94.html"> Yves Saint Laurent Paris
+<span class="link-span" aria-label="Link to Yves Saint Laurent Paris female 1983" title="Yves Saint Laurent Paris female 1983"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1983</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.95.jpg" width="75" height="85" alt="perfume Nu" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Yves-Saint-Laurent/Nu-95.html"> Yves Saint Laurent Nu
+<span class="link-span" aria-label="Link to Yves Saint Laurent Nu female 2001" title="Yves Saint Laurent Nu female 2001"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2001</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.96.jpg" width="75" height="85" alt="perfume Rive Gauche" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Yves-Saint-Laurent/Rive-Gauche-96.html"> Yves Saint Laurent Rive Gauche
+<span class="link-span" aria-label="Link to Yves Saint Laurent Rive Gauche female 1971" title="Yves Saint Laurent Rive Gauche female 1971"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1971</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.97.jpg" width="75" height="85" alt="perfume Envy" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Gucci/Envy-97.html"> Gucci Envy
+<span class="link-span" aria-label="Link to Gucci Envy female 1997" title="Gucci Envy female 1997"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1997</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.98.jpg" width="75" height="85" alt="perfume Les Exclusifs de Chanel Cuir de Russie 1924" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Chanel/Les-Exclusifs-de-Chanel-Cuir-de-Russie-1924-98.html"> Chanel Les Exclusifs de Chanel Cuir de Russie 1924
+<span class="link-span" aria-label="Link to Chanel Les Exclusifs de Chanel Cuir de Russie 1924 female 1924" title="Chanel Les Exclusifs de Chanel Cuir de Russie 1924 female 1924"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1924</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.99.jpg" width="75" height="85" alt="perfume Baby Doll" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Yves-Saint-Laurent/Baby-Doll-99.html"> Yves Saint Laurent Baby Doll
+<span class="link-span" aria-label="Link to Yves Saint Laurent Baby Doll female 2000" title="Yves Saint Laurent Baby Doll female 2000"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2000</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.100.jpg" width="75" height="85" alt="perfume Y" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Yves-Saint-Laurent/Y-100.html"> Yves Saint Laurent Y
+<span class="link-span" aria-label="Link to Yves Saint Laurent Y female 1964" title="Yves Saint Laurent Y female 1964"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1964</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.101.jpg" width="75" height="85" alt="perfume Yvresse (Champagne)" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Yves-Saint-Laurent/Yvresse-Champagne-101.html"> Yves Saint Laurent Yvresse (Champagne)
+<span class="link-span" aria-label="Link to Yves Saint Laurent Yvresse (Champagne) female 1993" title="Yves Saint Laurent Yvresse (Champagne) female 1993"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1993</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.102.jpg" width="75" height="85" alt="perfume Mandarine Tout Simplement" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/L-Artisan-Parfumeur/Mandarine-Tout-Simplement-102.html"> L'Artisan Parfumeur Mandarine Tout Simplement
+<span class="link-span" aria-label="Link to L'Artisan Parfumeur Mandarine Tout Simplement unisex 2006" title="L'Artisan Parfumeur Mandarine Tout Simplement unisex 2006"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(242,255,223,0.3),rgba(242,255,223,0.0));">
+<span>unisex</span>
+<span>2006</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.103.jpg" width="75" height="85" alt="perfume Jicky" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Guerlain/Jicky-103.html"> Guerlain Jicky
+<span class="link-span" aria-label="Link to Guerlain Jicky female 1889" title="Guerlain Jicky female 1889"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1889</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.104.jpg" width="75" height="85" alt="perfume In Love Again" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Yves-Saint-Laurent/In-Love-Again-104.html"> Yves Saint Laurent In Love Again
+<span class="link-span" aria-label="Link to Yves Saint Laurent In Love Again female 1998" title="Yves Saint Laurent In Love Again female 1998"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1998</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.105.jpg" width="75" height="85" alt="perfume Annayake Pour Elle" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Annayake/Annayake-Pour-Elle-105.html"> Annayake Annayake Pour Elle
+<span class="link-span" aria-label="Link to Annayake Annayake Pour Elle female 2000" title="Annayake Annayake Pour Elle female 2000"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2000</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.106.jpg" width="75" height="85" alt="perfume Annayake Pour Lui" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Annayake/Annayake-Pour-Lui-106.html"> Annayake Annayake Pour Lui
+<span class="link-span" aria-label="Link to Annayake Annayake Pour Lui male 2000" title="Annayake Annayake Pour Lui male 2000"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(223,235,255,0.3),rgba(223,235,255,0.0));">
+<span>male</span>
+<span>2000</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.107.jpg" width="75" height="85" alt="perfume Hanami" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Annayake/Hanami-107.html"> Annayake Hanami
+<span class="link-span" aria-label="Link to Annayake Hanami female 2003" title="Annayake Hanami female 2003"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2003</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.108.jpg" width="75" height="85" alt="perfume Natsumi" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Annayake/Natsumi-108.html"> Annayake Natsumi
+<span class="link-span" aria-label="Link to Annayake Natsumi female 2004" title="Annayake Natsumi female 2004"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2004</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.109.jpg" width="75" height="85" alt="perfume Tsukimi" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Annayake/Tsukimi-109.html"> Annayake Tsukimi
+<span class="link-span" aria-label="Link to Annayake Tsukimi female 2003" title="Annayake Tsukimi female 2003"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2003</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.110.jpg" width="75" height="85" alt="perfume Undo pour Homme" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Annayake/Undo-pour-Homme-110.html"> Annayake Undo pour Homme
+<span class="link-span" aria-label="Link to Annayake Undo pour Homme male 2005" title="Annayake Undo pour Homme male 2005"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(223,235,255,0.3),rgba(223,235,255,0.0));">
+<span>male</span>
+<span>2005</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.111.jpg" width="75" height="85" alt="perfume Yukimi" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Annayake/Yukimi-111.html"> Annayake Yukimi
+<span class="link-span" aria-label="Link to Annayake Yukimi female 2004" title="Annayake Yukimi female 2004"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2004</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.112.jpg" width="75" height="85" alt="perfume Diavolo" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Antonio-Banderas/Diavolo-112.html"> Antonio Banderas Diavolo
+<span class="link-span" aria-label="Link to Antonio Banderas Diavolo male 1997" title="Antonio Banderas Diavolo male 1997"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(223,235,255,0.3),rgba(223,235,255,0.0));">
+<span>male</span>
+<span>1997</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.113.jpg" width="75" height="85" alt="perfume Aramis" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Aramis/Aramis-113.html"> Aramis Aramis
+<span class="link-span" aria-label="Link to Aramis Aramis male 1966" title="Aramis Aramis male 1966"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(223,235,255,0.3),rgba(223,235,255,0.0));">
+<span>male</span>
+<span>1966</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.114.jpg" width="75" height="85" alt="perfume Aramis Always for Her" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Aramis/Aramis-Always-for-Her-114.html"> Aramis Aramis Always for Her
+<span class="link-span" aria-label="Link to Aramis Aramis Always for Her female 2006" title="Aramis Aramis Always for Her female 2006"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2006</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.115.jpg" width="75" height="85" alt="perfume Aramis Always for Him" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Aramis/Aramis-Always-for-Him-115.html"> Aramis Aramis Always for Him
+<span class="link-span" aria-label="Link to Aramis Aramis Always for Him male 2006" title="Aramis Aramis Always for Him male 2006"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(223,235,255,0.3),rgba(223,235,255,0.0));">
+<span>male</span>
+<span>2006</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.116.jpg" width="75" height="85" alt="perfume Aramis 900" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Aramis/Aramis-900-116.html"> Aramis Aramis 900
+<span class="link-span" aria-label="Link to Aramis Aramis 900 male 1973" title="Aramis Aramis 900 male 1973"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(223,235,255,0.3),rgba(223,235,255,0.0));">
+<span>male</span>
+<span>1973</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.117.jpg" width="75" height="85" alt="perfume Aramis Bermuda Tonic" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Aramis/Aramis-Bermuda-Tonic-117.html"> Aramis Aramis Bermuda Tonic
+<span class="link-span" aria-label="Link to Aramis Aramis Bermuda Tonic male 2005" title="Aramis Aramis Bermuda Tonic male 2005"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(223,235,255,0.3),rgba(223,235,255,0.0));">
+<span>male</span>
+<span>2005</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.118.jpg" width="75" height="85" alt="perfume Aramis Cool" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Aramis/Aramis-Cool-118.html"> Aramis Aramis Cool
+<span class="link-span" aria-label="Link to Aramis Aramis Cool male 2005" title="Aramis Aramis Cool male 2005"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(223,235,255,0.3),rgba(223,235,255,0.0));">
+<span>male</span>
+<span>2005</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.119.jpg" width="75" height="85" alt="perfume Aramis Ice" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Aramis/Aramis-Ice-119.html"> Aramis Aramis Ice
+<span class="link-span" aria-label="Link to Aramis Aramis Ice male 2003" title="Aramis Aramis Ice male 2003"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(223,235,255,0.3),rgba(223,235,255,0.0));">
+<span>male</span>
+<span>2003</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.120.jpg" width="75" height="85" alt="perfume Aramis Life" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Aramis/Aramis-Life-120.html"> Aramis Aramis Life
+<span class="link-span" aria-label="Link to Aramis Aramis Life male 2003" title="Aramis Aramis Life male 2003"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(223,235,255,0.3),rgba(223,235,255,0.0));">
+<span>male</span>
+<span>2003</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.121.jpg" width="75" height="85" alt="perfume Aramis Life My Summer" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Aramis/Aramis-Life-My-Summer-121.html"> Aramis Aramis Life My Summer
+<span class="link-span" aria-label="Link to Aramis Aramis Life My Summer male 2003" title="Aramis Aramis Life My Summer male 2003"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(223,235,255,0.3),rgba(223,235,255,0.0));">
+<span>male</span>
+<span>2003</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.122.jpg" width="75" height="85" alt="perfume Tuscany Per Donna" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Aramis/Tuscany-Per-Donna-122.html"> Aramis Tuscany Per Donna
+<span class="link-span" aria-label="Link to Aramis Tuscany Per Donna female 1992" title="Aramis Tuscany Per Donna female 1992"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1992</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.123.jpg" width="75" height="85" alt="perfume Tuscany Per Uomo" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Aramis/Tuscany-Per-Uomo-123.html"> Aramis Tuscany Per Uomo
+<span class="link-span" aria-label="Link to Aramis Tuscany Per Uomo male 1984" title="Aramis Tuscany Per Uomo male 1984"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(223,235,255,0.3),rgba(223,235,255,0.0));">
+<span>male</span>
+<span>1984</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.124.jpg" width="75" height="85" alt="perfume Basi Femme" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Armand-Basi/Basi-Femme-124.html"> Armand Basi Basi Femme
+<span class="link-span" aria-label="Link to Armand Basi Basi Femme female 2000" title="Armand Basi Basi Femme female 2000"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2000</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.125.jpg" width="75" height="85" alt="perfume Armand Basi Homme" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Armand-Basi/Armand-Basi-Homme-125.html"> Armand Basi Armand Basi Homme
+<span class="link-span" aria-label="Link to Armand Basi Armand Basi Homme male 2000" title="Armand Basi Armand Basi Homme male 2000"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(223,235,255,0.3),rgba(223,235,255,0.0));">
+<span>male</span>
+<span>2000</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.126.jpg" width="75" height="85" alt="perfume Basi Homme" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Armand-Basi/Basi-Homme-126.html"> Armand Basi Basi Homme
+<span class="link-span" aria-label="Link to Armand Basi Basi Homme male 1999" title="Armand Basi Basi Homme male 1999"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(223,235,255,0.3),rgba(223,235,255,0.0));">
+<span>male</span>
+<span>1999</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.127.jpg" width="75" height="85" alt="perfume In Blue" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Armand-Basi/In-Blue-127.html"> Armand Basi In Blue
+<span class="link-span" aria-label="Link to Armand Basi In Blue male 2005" title="Armand Basi In Blue male 2005"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(223,235,255,0.3),rgba(223,235,255,0.0));">
+<span>male</span>
+<span>2005</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.128.jpg" width="75" height="85" alt="perfume In Red" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Armand-Basi/In-Red-128.html"> Armand Basi In Red
+<span class="link-span" aria-label="Link to Armand Basi In Red female 2003" title="Armand Basi In Red female 2003"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2003</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.129.jpg" width="75" height="85" alt="perfume Banana Republic W" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Banana-Republic/Banana-Republic-W-129.html"> Banana Republic Banana Republic W
+<span class="link-span" aria-label="Link to Banana Republic Banana Republic W female 1995" title="Banana Republic Banana Republic W female 1995"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1995</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.130.jpg" width="75" height="85" alt="perfume Nude" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Bill-Blass/Nude-130.html"> Bill Blass Nude
+<span class="link-span" aria-label="Link to Bill Blass Nude female 1991" title="Bill Blass Nude female 1991"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1991</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.131.jpg" width="75" height="85" alt="perfume Byblos" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Byblos/Byblos-131.html"> Byblos Byblos
+<span class="link-span" aria-label="Link to Byblos Byblos female 1990" title="Byblos Byblos female 1990"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1990</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.132.jpg" width="75" height="85" alt="perfume Boucheron Pour Homme" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Boucheron/Boucheron-Pour-Homme-132.html"> Boucheron Boucheron Pour Homme
+<span class="link-span" aria-label="Link to Boucheron Boucheron Pour Homme male 1991" title="Boucheron Boucheron Pour Homme male 1991"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(223,235,255,0.3),rgba(223,235,255,0.0));">
+<span>male</span>
+<span>1991</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.133.jpg" width="75" height="85" alt="perfume Boucheron" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Boucheron/Boucheron-133.html"> Boucheron Boucheron
+<span class="link-span" aria-label="Link to Boucheron Boucheron female 1988" title="Boucheron Boucheron female 1988"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1988</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.134.jpg" width="75" height="85" alt="perfume Initial" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Boucheron/Initial-134.html"> Boucheron Initial
+<span class="link-span" aria-label="Link to Boucheron Initial female 2000" title="Boucheron Initial female 2000"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2000</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.135.jpg" width="75" height="85" alt="perfume Trouble" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Boucheron/Trouble-135.html"> Boucheron Trouble
+<span class="link-span" aria-label="Link to Boucheron Trouble female 2004" title="Boucheron Trouble female 2004"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2004</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.136.jpg" width="75" height="85" alt="perfume Jaipur" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Boucheron/Jaipur-136.html"> Boucheron Jaipur
+<span class="link-span" aria-label="Link to Boucheron Jaipur female 1994" title="Boucheron Jaipur female 1994"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1994</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.137.jpg" width="75" height="85" alt="perfume Jaipur Homme" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Boucheron/Jaipur-Homme-137.html"> Boucheron Jaipur Homme
+<span class="link-span" aria-label="Link to Boucheron Jaipur Homme male 1998" title="Boucheron Jaipur Homme male 1998"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(223,235,255,0.3),rgba(223,235,255,0.0));">
+<span>male</span>
+<span>1998</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.138.jpg" width="75" height="85" alt="perfume Jaipur Saphir" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Boucheron/Jaipur-Saphir-138.html"> Boucheron Jaipur Saphir
+<span class="link-span" aria-label="Link to Boucheron Jaipur Saphir female 1999" title="Boucheron Jaipur Saphir female 1999"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1999</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.139.jpg" width="75" height="85" alt="perfume Blumarine II" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Blumarine/Blumarine-II-139.html"> Blumarine Blumarine II
+<span class="link-span" aria-label="Link to Blumarine Blumarine II female 2000" title="Blumarine Blumarine II female 2000"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2000</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.140.jpg" width="75" height="85" alt="perfume Vintage" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Blumarine/Vintage-140.html"> Blumarine Vintage
+<span class="link-span" aria-label="Link to Blumarine Vintage female 2004" title="Blumarine Vintage female 2004"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2004</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.141.jpg" width="75" height="85" alt="perfume Curious" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Britney-Spears/Curious-141.html"> Britney Spears Curious
+<span class="link-span" aria-label="Link to Britney Spears Curious female 2004" title="Britney Spears Curious female 2004"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2004</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.142.jpg" width="75" height="85" alt="perfume Bvlgari Pour Femme" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Bvlgari/Bvlgari-Pour-Femme-142.html"> Bvlgari Bvlgari Pour Femme
+<span class="link-span" aria-label="Link to Bvlgari Bvlgari Pour Femme female 1994" title="Bvlgari Bvlgari Pour Femme female 1994"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>1994</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.143.jpg" width="75" height="85" alt="perfume Bvlgari Pour Homme" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Bvlgari/Bvlgari-Pour-Homme-143.html"> Bvlgari Bvlgari Pour Homme
+<span class="link-span" aria-label="Link to Bvlgari Bvlgari Pour Homme male 1996" title="Bvlgari Bvlgari Pour Homme male 1996"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(223,235,255,0.3),rgba(223,235,255,0.0));">
+<span>male</span>
+<span>1996</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.144.jpg" width="75" height="85" alt="perfume Eau Parfumee au The Vert" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Bvlgari/Eau-Parfumee-au-The-Vert-144.html"> Bvlgari Eau Parfumee au The Vert
+<span class="link-span" aria-label="Link to Bvlgari Eau Parfumee au The Vert unisex 1992" title="Bvlgari Eau Parfumee au The Vert unisex 1992"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(242,255,223,0.3),rgba(242,255,223,0.0));">
+<span>unisex</span>
+<span>1992</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.145.jpg" width="75" height="85" alt="perfume Eau Parfumee au The Blanc" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Bvlgari/Eau-Parfumee-au-The-Blanc-145.html"> Bvlgari Eau Parfumee au The Blanc
+<span class="link-span" aria-label="Link to Bvlgari Eau Parfumee au The Blanc unisex 2003" title="Bvlgari Eau Parfumee au The Blanc unisex 2003"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(242,255,223,0.3),rgba(242,255,223,0.0));">
+<span>unisex</span>
+<span>2003</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.146.jpg" width="75" height="85" alt="perfume Eau Parfumee au The Rouge" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Bvlgari/Eau-Parfumee-au-The-Rouge-146.html"> Bvlgari Eau Parfumee au The Rouge
+<span class="link-span" aria-label="Link to Bvlgari Eau Parfumee au The Rouge unisex 2006" title="Bvlgari Eau Parfumee au The Rouge unisex 2006"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(242,255,223,0.3),rgba(242,255,223,0.0));">
+<span>unisex</span>
+<span>2006</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.147.jpg" width="75" height="85" alt="perfume Nina" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Nina-Ricci/Nina-147.html"> Nina Ricci Nina
+<span class="link-span" aria-label="Link to Nina Ricci Nina female 2006" title="Nina Ricci Nina female 2006"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2006</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.148.jpg" width="75" height="85" alt="perfume BLV Pour Homme" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Bvlgari/BLV-Pour-Homme-148.html"> Bvlgari BLV Pour Homme
+<span class="link-span" aria-label="Link to Bvlgari BLV Pour Homme male 2001" title="Bvlgari BLV Pour Homme male 2001"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(223,235,255,0.3),rgba(223,235,255,0.0));">
+<span>male</span>
+<span>2001</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.149.jpg" width="75" height="85" alt="perfume BLV Notte Pour Femme" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Bvlgari/BLV-Notte-Pour-Femme-149.html"> Bvlgari BLV Notte Pour Femme
+<span class="link-span" aria-label="Link to Bvlgari BLV Notte Pour Femme female 2004" title="Bvlgari BLV Notte Pour Femme female 2004"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2004</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.150.jpg" width="75" height="85" alt="perfume BLV Notte Pour Homme" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Bvlgari/BLV-Notte-Pour-Homme-150.html"> Bvlgari BLV Notte Pour Homme
+<span class="link-span" aria-label="Link to Bvlgari BLV Notte Pour Homme male 2004" title="Bvlgari BLV Notte Pour Homme male 2004"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(223,235,255,0.3),rgba(223,235,255,0.0));">
+<span>male</span>
+<span>2004</span></div>
+</div>
+<div class="cell card fr-news-box" style="flex-grow:0;">
+<div class="card-section">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.151.jpg" width="75" height="85" alt="perfume Omnia" />
+</div>
+<div class="card-section">
+<p><a href="/perfume/Bvlgari/Omnia-151.html"> Bvlgari Omnia
+<span class="link-span" aria-label="Link to Bvlgari Omnia female 2003" title="Bvlgari Omnia female 2003"></span></a></p>
+</div>
+<div class="card-divider flex-container align-justify " style="font-size: small;background-image: linear-gradient(to right, rgba(255,218,241,0.30), rgba(255,218,241,0.0));">
+<span>female</span>
+<span>2003</span></div>
+</div>
+</div>
+</div>
+</div>
+</perfume-search>
+<script2 async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script2>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5799249617816528" data-ad-slot="2740113138" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script2>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script2> </div>
+<div class="small-12 medium-4 large-3 cell" data-sticky-container>
+<div id="offCanvasRight" class="off-canvas in-canvas-for-medium position-right is-closed" data-off-canvas>
+<div class="hide-for-medium" style="width: 2em; position: relative; margin: 0 1em;">
+<button class="close-button" aria-label="Close menu" type="button" data-close>
+<span aria-hidden="true">&times;</span>
+</button>&nbsp;
+</div>
+<div class="strike-title" style="margin-top: 0.5em;"><span>Perfume Encyclopedia</span></div>
+<div>Perfumes: <b>87,407</b><br/>
+Fragrance Reviews: <b>1,640,016</b><br/>
+Perfume lovers: <b>1,112,183</b><br/>
+<span style="
+            background: -moz-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(202,230,249,0.9) 70.367474589523%, rgba(246,246,246,1) 100%);
+            background: -webkit-linear-gradient(left, rgba(255,255,255,1) 0%,rgba(202,230,249,0.9) 70.367474589523%,rgba(246,246,246,1) 100%);
+            background: linear-gradient(to right, rgba(255,255,255,1) 0%,rgba(202,230,249,0.9) 70.367474589523%,rgba(246,246,246,1) 100%);
+            ">Online right now: <b>3,600</b></span><br/>
+<visitors-histogram :visitors="[1064,1023,1031,991,993,1026,1059,1034,1008,1024,1033,1047,1087,1061,1019,1042,1040,1063,1075,1041,1079,1066,1041,1020,1097,1058,1079,1073,983]"></visitors-histogram>
+</div>
+<div class="strike-title"><span>Register</span></div>
+<div class="button-group expanded align-middle">
+<a href="/board/login.php" class="button primary" rel="nofollow">Log in</a>
+<a class="button hollow primary" href="/social/fblogin2.php" rel="nofollow"><img alt="Sign in with Facebook" src="https://fimgs.net/himg/o.68301.png" style="border:none"></a>
+<a href="/board/register.php" class="button primary" rel="nofollow">Register</a>
+</div> <div style="margin-left: -0.65rem">
+
+<div data-fuse="22384457064"></div>
+</div>
+<div class="strike-title"><span>Perfume Reviews</span></div>
+<div class="latest-list flex-container">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.79846.jpg" style="width: 60px; height: 64px; margin-right: 0.5em; flex-shrink: 0" />
+<a href="/perfume/Kayali-Fragrances/Yum-Pistachio-Gelato-33-79846.html"><span class="link-span"></span>
+<span class="brand">Kayali Fragrances</span><br> <span class="ztworowseclipse">Yum Pistachio Gelato | 33</span>
+</a>
+<span class="avatar-tip" data-tooltip aria-haspopup="true" data-show-on="medium" data-disable-hover="false" tabindex="1" title="What I was expecting: Pistachio Gelato What I got: A somewhat generic and cheap celebrity/designer smelling scent It’s not a bad smell by any means (quite the opposite, it smells very pleasant and I would think most women would enjoy it), but if you told me this was a Britney Spears scent I...">by
+<em>TheSniffer</em> <img loading="lazy" src="https://fimgs.net/himg/o.69248.png" style="width: 2em; height: 2em; border-radius: 1em"></span>
+</div>
+<div class="latest-list flex-container">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.4608.jpg" style="width: 60px; height: 64px; margin-right: 0.5em; flex-shrink: 0" />
+<a href="/perfume/Geoffrey-Beene/Grey-Flannel-4608.html"><span class="link-span"></span>
+<span class="brand">Geoffrey Beene</span><br> <span class="ztworowseclipse">Grey Flannel</span>
+</a>
+<span class="avatar-tip" data-tooltip aria-haspopup="true" data-show-on="medium" data-disable-hover="false" tabindex="1" title="I bought this like some others at the beginning of my fragrance journey. Old school super cheap and really powerful. I wouldn&#039;t wear this out in the street but if I&#039;m alone of an eveing, occasionally I&#039;ll reach for it. A guilty pleasure.">by
+<em>RadiantR</em> <img loading="lazy" src="https://fimgs.net/himg/o.69248.png" style="width: 2em; height: 2em; border-radius: 1em"></span>
+</div>
+<div class="latest-list flex-container">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.88818.jpg" style="width: 60px; height: 64px; margin-right: 0.5em; flex-shrink: 0" />
+<a href="/perfume/Tom-Ford/Oud-Minerale-2023-88818.html"><span class="link-span"></span>
+<span class="brand">Tom Ford</span><br> <span class="ztworowseclipse">Oud Minérale (2023)</span>
+</a>
+<span class="avatar-tip" data-tooltip aria-haspopup="true" data-show-on="medium" data-disable-hover="false" tabindex="1" title="13. January 2023 Am Not familiar with private blend edition, so this is purely no comparison review. I almost dont get any oud from this, i have to use my imagination very well, to get the oud out of it, only closer on the drydown it is more noticable. Mostly i get the &quot;metallic&quot; scent...">by
+<em>passionata20</em> <img loading="lazy" src="https://fimgs.net/mdimg/avatari/s.39708.jpg" style="width: 2em; height: 2em; border-radius: 1em"></span>
+</div>
+<div class="latest-list flex-container">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.87708.jpg" style="width: 60px; height: 64px; margin-right: 0.5em; flex-shrink: 0" />
+<a href="/perfume/Jo-Malone-London/Ginger-Biscuit-Cologne-2023-87708.html"><span class="link-span"></span>
+<span class="brand">Jo Malone London</span><br> <span class="ztworowseclipse">Ginger Biscuit Cologne (2023)</span>
+</a>
+<span class="avatar-tip" data-tooltip aria-haspopup="true" data-show-on="medium" data-disable-hover="false" tabindex="1" title="Photorealistic gourmand. Smells like caramel with ginger. Smells edible. Totally unisex. Very long lasting and room filling, still strong after 8 hours. I’m familiar with this house but haven’t tried that many fragrances from them. Heard about this new release and tried it. Really impressive.">by
+<em>Kenta3737</em> <img loading="lazy" src="https://fimgs.net/himg/o.69248.png" style="width: 2em; height: 2em; border-radius: 1em"></span>
+</div>
+<div class="latest-list flex-container">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.81642.jpg" style="width: 60px; height: 64px; margin-right: 0.5em; flex-shrink: 0" />
+<a href="/perfume/Jean-Paul-Gaultier/Le-Male-Elixir-81642.html"><span class="link-span"></span>
+<span class="brand">Jean Paul Gaultier</span><br> <span class="ztworowseclipse">Le Male Elixir</span>
+</a>
+<span class="avatar-tip" data-tooltip aria-haspopup="true" data-show-on="medium" data-disable-hover="false" tabindex="1" title="Let&#039;s play a game. Look at the bottle. What other perfume does it remind you of, besides Le Male flankers? Hint: pay attention to the color. That&#039;s right. JPG said &quot;this is how 1 Million should have been made&quot;, and they were right. It&#039;s the same sour, hot-and-cold...">by
+<em>LeSmeller</em> <img loading="lazy" src="https://fimgs.net/himg/o.69248.png" style="width: 2em; height: 2em; border-radius: 1em"></span>
+</div>
+<div class="latest-list flex-container">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.89234.jpg" style="width: 60px; height: 64px; margin-right: 0.5em; flex-shrink: 0" />
+<a href="/perfume/d-Annam/Vietnamese-Coffee-89234.html"><span class="link-span"></span>
+<span class="brand">d'Annam</span><br> <span class="ztworowseclipse">Vietnamese Coffee</span>
+</a>
+<span class="avatar-tip" data-tooltip aria-haspopup="true" data-show-on="medium" data-disable-hover="false" tabindex="1" title="Sweeter than Bali Coffe. Long lasting around 7 hrs, very enough for me. Love the sweetnes.">by
+<em>Breeg531</em> <img loading="lazy" src="https://fimgs.net/himg/o.69248.png" style="width: 2em; height: 2em; border-radius: 1em"></span>
+</div>
+<div class="latest-list flex-container">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.32590.jpg" style="width: 60px; height: 64px; margin-right: 0.5em; flex-shrink: 0" />
+<a href="/perfume/Frederic-Malle/Monsieur-32590.html"><span class="link-span"></span>
+<span class="brand">Frederic Malle</span><br> <span class="ztworowseclipse">Monsieur</span>
+</a>
+<span class="avatar-tip" data-tooltip aria-haspopup="true" data-show-on="medium" data-disable-hover="false" tabindex="1" title="The tonka here is so beautiful. Really helps make the scent more inviting. I do get rum and tangerine, very interesting opening. Very wearable.">by
+<em>nicholasmendez13</em> <img loading="lazy" src="https://fimgs.net/himg/o.69248.png" style="width: 2em; height: 2em; border-radius: 1em"></span>
+</div>
+<div class="latest-list flex-container">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.56761.jpg" style="width: 60px; height: 64px; margin-right: 0.5em; flex-shrink: 0" />
+<a href="/perfume/Burberry/Burberry-Her-Intense-56761.html"><span class="link-span"></span>
+<span class="brand">Burberry</span><br> <span class="ztworowseclipse">Burberry Her Intense</span>
+</a>
+<span class="avatar-tip" data-tooltip aria-haspopup="true" data-show-on="medium" data-disable-hover="false" tabindex="1" title="i love the scent of this so girly it def does have that sort of medicinal kinda scent to it tho which i dont persoanlly mind but others might not. i do get the regular compliment that i smell super sweet from time to time but i notice it mostly happens when i hug people so the sillage isnt that...">by
+<em>annnna45</em> <img loading="lazy" src="https://fimgs.net/himg/o.69248.png" style="width: 2em; height: 2em; border-radius: 1em"></span>
+</div>
+<div class="latest-list flex-container">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.17211.jpg" style="width: 60px; height: 64px; margin-right: 0.5em; flex-shrink: 0" />
+<a href="/perfume/Reminiscence/Oud-17211.html"><span class="link-span"></span>
+<span class="brand">Reminiscence</span><br> <span class="ztworowseclipse">Oud</span>
+</a>
+<span class="avatar-tip" data-tooltip aria-haspopup="true" data-show-on="medium" data-disable-hover="false" tabindex="1" title="Whether it&#039;s Oud or just smells like it, who cares? I like this. Alot. I have many oud perfumes, including Oud For Greatness, and a few from Penhaligon&#039;s.. But, I&#039;m not a snob about it, and frankly, if it smells good, then considering the price, it shouldn&#039;t matter. Good is...">by
+<em>Magellan0101</em> <img loading="lazy" src="https://fimgs.net/mdimg/avatari/s.1462123.jpg" style="width: 2em; height: 2em; border-radius: 1em"></span>
+</div>
+<div class="latest-list flex-container">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.75827.jpg" style="width: 60px; height: 64px; margin-right: 0.5em; flex-shrink: 0" />
+<a href="/perfume/Sora-Dora/Mandorle-75827.html"><span class="link-span"></span>
+<span class="brand">Sora Dora</span><br> <span class="ztworowseclipse">Mandorle</span>
+</a>
+<span class="avatar-tip" data-tooltip aria-haspopup="true" data-show-on="medium" data-disable-hover="false" tabindex="1" title="Imagine By The Fireplace with a metallic undertone. Not for me. 👎">by
+<em>noel1stanley</em> <img loading="lazy" src="https://fimgs.net/mdimg/avatari/s.1109300.jpg" style="width: 2em; height: 2em; border-radius: 1em"></span>
+</div>
+<div class="latest-list flex-container">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.2762.jpg" style="width: 60px; height: 64px; margin-right: 0.5em; flex-shrink: 0" />
+<a href="/perfume/Serge-Lutens/Chergui-2762.html"><span class="link-span"></span>
+<span class="brand">Serge Lutens</span><br> <span class="ztworowseclipse">Chergui</span>
+</a>
+<span class="avatar-tip" data-tooltip aria-haspopup="true" data-show-on="medium" data-disable-hover="false" tabindex="1" title="Smells like Moroccan Oil Hair treatment. This perfume, to me, is basically powdery. argan oil with a hint of tobacco in the beginning. Could also be described as a fancy pants foot powder. After all the hype, I was so unimpressed, I returned my bottle. ✨">by
+<em>TabledThoughts</em> <img loading="lazy" src="https://fimgs.net/mdimg/avatari/s.1122143.jpg" style="width: 2em; height: 2em; border-radius: 1em"></span>
+</div>
+<div class="latest-list flex-container">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.30567.jpg" style="width: 60px; height: 64px; margin-right: 0.5em; flex-shrink: 0" />
+<a href="/perfume/Nishane/Wulong-Cha-30567.html"><span class="link-span"></span>
+<span class="brand">Nishane</span><br> <span class="ztworowseclipse">Wulóng Chá</span>
+</a>
+<span class="avatar-tip" data-tooltip aria-haspopup="true" data-show-on="medium" data-disable-hover="false" tabindex="1" title="This is a great fragrance that’s not talkad about enough. I love this, might be my next pick up.">by
+<em>iranifragrance</em> <img loading="lazy" src="https://fimgs.net/himg/o.69248.png" style="width: 2em; height: 2em; border-radius: 1em"></span>
+</div>
+<div class="latest-list flex-container">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.78868.jpg" style="width: 60px; height: 64px; margin-right: 0.5em; flex-shrink: 0" />
+<a href="/perfume/BORNTOSTANDOUT/Indecent-Cherry-78868.html"><span class="link-span"></span>
+<span class="brand">BORNTOSTANDOUT®</span><br> <span class="ztworowseclipse">Indecent Cherry</span>
+</a>
+<span class="avatar-tip" data-tooltip aria-haspopup="true" data-show-on="medium" data-disable-hover="false" tabindex="1" title="Not a fan. It’s not terrible… just boring and something in the opening smells off to me. Possibly saffron / almond gone wrong. Which are both notes I normally enjoy. I thought the notes sounded interesting but this becomes a flat cherry generic floral on me. Not much else to say.">by
+<em>Goldena35</em> <img loading="lazy" src="https://fimgs.net/mdimg/avatari/s.1807650.jpg" style="width: 2em; height: 2em; border-radius: 1em"></span>
+</div>
+<div class="latest-list flex-container">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.39742.jpg" style="width: 60px; height: 64px; margin-right: 0.5em; flex-shrink: 0" />
+<a href="/perfume/The-Merchant-of-Venice/Rosa-Moceniga-39742.html"><span class="link-span"></span>
+<span class="brand">The Merchant of Venice</span><br> <span class="ztworowseclipse">Rosa Moceniga</span>
+</a>
+<span class="avatar-tip" data-tooltip aria-haspopup="true" data-show-on="medium" data-disable-hover="false" tabindex="1" title="I personally think this is a great dupe for D&amp;G The One Rose. I still have samples of the one rose and think I will miss them when they are gone. It is nice to know that there is a good dupe out there. Not an exact match but close enough. Ladies if you really miss D&amp;G The One Rose give...">by
+<em>LSAUG</em> <img loading="lazy" src="https://fimgs.net/himg/o.69248.png" style="width: 2em; height: 2em; border-radius: 1em"></span>
+</div>
+<div class="latest-list flex-container">
+<img loading="lazy" src="https://fimgs.net/mdimg/perfume/m.72158.jpg" style="width: 60px; height: 64px; margin-right: 0.5em; flex-shrink: 0" />
+<a href="/perfume/Jean-Paul-Gaultier/Le-Beau-Le-Parfum-72158.html"><span class="link-span"></span>
+<span class="brand">Jean Paul Gaultier</span><br> <span class="ztworowseclipse">Le Beau Le Parfum</span>
+</a>
+<span class="avatar-tip" data-tooltip aria-haspopup="true" data-show-on="medium" data-disable-hover="false" tabindex="1" title="From the first spray after a blind buy, I loved it. TBF I&#039;m of the younger crowd, which is the main target audience of most jpg fragrances. On the first spray, you can get that canned pineapple smell, a bit fresh somehow. drying down the coconut shows, and then it finally dries down to a...">by
+<em>vanillalova</em> <img loading="lazy" src="https://fimgs.net/mdimg/avatari/s.1739161.jpg" style="width: 2em; height: 2em; border-radius: 1em"></span>
+</div>
+<a class="button hollow primary small expanded" href="/perfume-reviews/">New Reviews</a> <div style="margin-left: -0.65rem">
+
+<div data-fuse="22384457070"></div>
+</div>
+<div class="strike-title"><span>Article Comments</span></div>
+<div class="latest-list flex-container">
+<img loading="lazy" src="https://l.fimgs.net/news/en/19591/news.19591-60x64.jpg" style="width: 60px; height: 64px; margin-right: 0.5em; flex-shrink: 0" />
+<a href="/news/A-New-Collaboration-of-Two-Independent-Perfumers-Gumamina-19591.html"><span class="link-span"></span>
+<span class="ztworowseclipse">A New Collaboration of Two Independent Perfumers: Gumamina</span>
+</a>
+<span class="avatar-tip" data-tooltip aria-haspopup="true" data-show-on="medium" data-disable-hover="false" tabindex="1" title="Love the bottles! Thanks for the heads up, Bella! 🥰">by
+<em>Beth</em> <img loading="lazy" src="https://fimgs.net/mdimg/avatari/s.1045903.jpg" style="width: 2em; height: 2em; border-radius: 1em"></span>
+</div>
+<div class="latest-list flex-container">
+<img loading="lazy" src="https://l.fimgs.net/news/en/19585/news.19585-60x64.jpg" style="width: 60px; height: 64px; margin-right: 0.5em; flex-shrink: 0" />
+<a href="/news/Dior-s-Dolce-Vita-The-Perfume-s-30th-Anniversary-and-Its-Story-of-Creation-19585.html"><span class="link-span"></span>
+<span class="ztworowseclipse">Dior's Dolce Vita: The Perfume's 30th Anniversary and Its Story of Creation</span>
+</a>
+<span class="avatar-tip" data-tooltip aria-haspopup="true" data-show-on="medium" data-disable-hover="false" tabindex="1" title="❤️ Dior Dolce Vita so gorgeous. Thank you for the article ">by
+<em>Carissaochoa</em> <img loading="lazy" src="https://fimgs.net/mdimg/avatari/s.276055.jpg" style="width: 2em; height: 2em; border-radius: 1em"></span>
+</div>
+<div class="latest-list flex-container">
+<img loading="lazy" src="https://l.fimgs.net/news/en/19584/news.19584-60x64.jpg" style="width: 60px; height: 64px; margin-right: 0.5em; flex-shrink: 0" />
+<a href="/news/Summer-Escapades-Bronze-Goddess-19584.html"><span class="link-span"></span>
+<span class="ztworowseclipse">Summer "Escapades": Bronze Goddess</span>
+</a>
+<span class="avatar-tip" data-tooltip aria-haspopup="true" data-show-on="medium" data-disable-hover="false" tabindex="1" title="Summer staple Estée Lauder Bronze Goddess Eau Fraiche 2019 love it so 🌞🏝️">by
+<em>Carissaochoa</em> <img loading="lazy" src="https://fimgs.net/mdimg/avatari/s.276055.jpg" style="width: 2em; height: 2em; border-radius: 1em"></span>
+</div>
+<div class="latest-list flex-container">
+<img loading="lazy" src="https://l.fimgs.net/news/en/19575/news.19575-60x64.jpg" style="width: 60px; height: 64px; margin-right: 0.5em; flex-shrink: 0" />
+<a href="/news/Guerlain-Neroli-Outrenoir-Year-of-the-Dragon-Limited-Edition-19575.html"><span class="link-span"></span>
+<span class="ztworowseclipse">Guerlain Néroli Outrenoir - Year of the Dragon Limited Edition</span>
+</a>
+<span class="avatar-tip" data-tooltip aria-haspopup="true" data-show-on="medium" data-disable-hover="false" tabindex="1" title="Bottle is kind of ugly, imo. The dragon itself would be nicer if it was a brooch that could be taken off and worn. I suppose you could buy this as a sort of investment. In five yers time, when it&#039;s long-discontinued, you could try to sell it for double what you bought it for. Still...">by
+<em>Featherblossom</em> <img loading="lazy" src="https://fimgs.net/mdimg/avatari/s.1722364.jpg" style="width: 2em; height: 2em; border-radius: 1em"></span>
+</div>
+<div class="latest-list flex-container">
+<img loading="lazy" src="https://l.fimgs.net/news/en/19526/news.19526-60x64.jpg" style="width: 60px; height: 64px; margin-right: 0.5em; flex-shrink: 0" />
+<a href="/news/FRAGRANTICA-Readers-Choice-AWARDS-2023-WINNERS-19526.html"><span class="link-span"></span>
+<span class="ztworowseclipse">FRAGRANTICA Readers' Choice AWARDS 2023 WINNERS!</span>
+</a>
+<span class="avatar-tip" data-tooltip aria-haspopup="true" data-show-on="medium" data-disable-hover="false" tabindex="1" title="Bleu de Chanel EDP is a marine fragrance now? Clearly this website has no interest in being accurate.">by
+<em>pakistanstar</em> <img loading="lazy" src="https://fimgs.net/mdimg/avatari/s.1416694.jpg" style="width: 2em; height: 2em; border-radius: 1em"></span>
+</div>
+<div class="latest-list flex-container">
+<img loading="lazy" src="https://l.fimgs.net/news/en/19588/news.19588-60x64.jpg" style="width: 60px; height: 64px; margin-right: 0.5em; flex-shrink: 0" />
+<a href="/news/NIKOS-SCULPTURE-Voyage-en-Orient-19588.html"><span class="link-span"></span>
+<span class="ztworowseclipse">NIKOS SCULPTURE Voyage en Orient</span>
+</a>
+<span class="avatar-tip" data-tooltip aria-haspopup="true" data-show-on="medium" data-disable-hover="false" tabindex="1" title="The bottle is beautiful, and the notes sound promising. I love the first promotional illustration above!">by
+<em>MossyBerry</em> <img loading="lazy" src="https://fimgs.net/mdimg/avatari/s.1040951.jpg" style="width: 2em; height: 2em; border-radius: 1em"></span>
+</div>
+<div class="latest-list flex-container">
+<img loading="lazy" src="https://l.fimgs.net/news/en/19578/news.19578-60x64.jpg" style="width: 60px; height: 64px; margin-right: 0.5em; flex-shrink: 0" />
+<a href="/news/Feve-Gourmande-Guerlain-the-return-of-Elixir-Charnel-Gourmand-Coquin-or-a-new-fragrance-19578.html"><span class="link-span"></span>
+<span class="ztworowseclipse">Fève Gourmande Guerlain: the return of Elixir Charnel Gourmand Coquin or a new fragrance?</span>
+</a>
+<span class="avatar-tip" data-tooltip aria-haspopup="true" data-show-on="medium" data-disable-hover="false" tabindex="1" title="This article was so lovely that it almost seduced me into going to sample it, but I can&#039;t risk falling in love because Feve Gourmand is so insanely expensive :(">by
+<em>Skinscents4Fusspots</em> <img loading="lazy" src="https://fimgs.net/mdimg/avatari/s.119688.jpg" style="width: 2em; height: 2em; border-radius: 1em"></span>
+</div>
+<div class="latest-list flex-container">
+<img loading="lazy" src="https://l.fimgs.net/news/en/18404/news.18404-60x64.jpg" style="width: 60px; height: 64px; margin-right: 0.5em; flex-shrink: 0" />
+<a href="/news/Kenzo-Amour-Invitation-to-Bali-18404.html"><span class="link-span"></span>
+<span class="ztworowseclipse">Kenzo Amour: Invitation to Bali</span>
+</a>
+<span class="avatar-tip" data-tooltip aria-haspopup="true" data-show-on="medium" data-disable-hover="false" tabindex="1" title="I love this perfume. It&#039;s soft, comforting, sweet but not too sweet. I like to spray it before bed if I want a cosy homely but sensual feel. Spraying it on fluffy jumper just feels right. I hate rice pudding to eat but the powdery warmth of the rice, the wood and sweetness of vanilla is so...">by
+<em>Bebeck</em> <img loading="lazy" src="https://fimgs.net/mdimg/avatari/s.1425868.jpg" style="width: 2em; height: 2em; border-radius: 1em"></span>
+</div>
+<div class="latest-list flex-container">
+<img loading="lazy" src="https://l.fimgs.net/news/en/19583/news.19583-60x64.jpg" style="width: 60px; height: 64px; margin-right: 0.5em; flex-shrink: 0" />
+<a href="/news/Fifty-Shades-of-Blue-Encre-Indigo-by-Lalique-19583.html"><span class="link-span"></span>
+<span class="ztworowseclipse">Fifty Shades of Blue: Encre Indigo by Lalique </span>
+</a>
+<span class="avatar-tip" data-tooltip aria-haspopup="true" data-show-on="medium" data-disable-hover="false" tabindex="1" title="@fragrand I disagree. I used to think the same based on the name—that this must be a new fragrance as opposed to an Encre Noire flanker. But I tested Encre Indigo and it definitely has the EN backbone. Even when my wife smelt it blindly on my hand, first thing she said was &quot;it has...">by
+<em>vbs221</em> <img loading="lazy" src="https://fimgs.net/himg/o.69248.png" style="width: 2em; height: 2em; border-radius: 1em"></span>
+</div>
+<div class="latest-list flex-container">
+<img loading="lazy" src="https://l.fimgs.net/news/en/19589/news.19589-60x64.jpg" style="width: 60px; height: 64px; margin-right: 0.5em; flex-shrink: 0" />
+<a href="/news/Toskovat-Has-Launched-Five-New-Fragrances-19589.html"><span class="link-span"></span>
+<span class="ztworowseclipse">Toskovat' Has Launched Five New Fragrances</span>
+</a>
+<span class="avatar-tip" data-tooltip aria-haspopup="true" data-show-on="medium" data-disable-hover="false" tabindex="1" title="This brand sounds great but how can one experience these if literally everything seems to be out of stock on their site :|">by
+<em>Caroline22</em> <img loading="lazy" src="https://fimgs.net/mdimg/avatari/s.1374714.jpg" style="width: 2em; height: 2em; border-radius: 1em"></span>
+</div>
+<div class="latest-list flex-container">
+<img loading="lazy" src="https://l.fimgs.net/news/en/19590/news.19590-60x64.jpg" style="width: 60px; height: 64px; margin-right: 0.5em; flex-shrink: 0" />
+<a href="/news/Virgin-Island-Water-As-Inverted-Winter-Barbershop-Blend-19590.html"><span class="link-span"></span>
+<span class="ztworowseclipse">Virgin Island Water As Inverted Winter Barbershop Blend</span>
+</a>
+<span class="avatar-tip" data-tooltip aria-haspopup="true" data-show-on="medium" data-disable-hover="false" tabindex="1" title="There are quite a few spring/summer oriented fragrances that I actually really enjoy using, sometimes maybe even more in the fall/winter. Often it&#039;s the fresh green type of fragrances I find work amazing on a cold rainy day rather than the hot summer day one would assume. I find fall/winter...">by
+<em>dolcethadon</em> <img loading="lazy" src="https://fimgs.net/mdimg/avatari/s.248173.jpg" style="width: 2em; height: 2em; border-radius: 1em"></span>
+</div>
+<div class="latest-list flex-container">
+<img loading="lazy" src="https://l.fimgs.net/news/en/19553/news.19553-60x64.jpg" style="width: 60px; height: 64px; margin-right: 0.5em; flex-shrink: 0" />
+<a href="/news/Review-Vanille-Planifolia-Extrait-21-Guerlain-19553.html"><span class="link-span"></span>
+<span class="ztworowseclipse">Review Vanille Planifolia Extrait 21 Guerlain</span>
+</a>
+<span class="avatar-tip" data-tooltip aria-haspopup="true" data-show-on="medium" data-disable-hover="false" tabindex="1" title="For me Vanilla is interesting enough of a note to stand on its own in a perfume. If the vanilla is blended well I really enjoy a vanilla solitude fragrance . Indult Tihota is a straight forward vanilla that I love, sure it has some musk but its a pure vanilla to my nose. Don&#039;t care much for...">by
+<em>vanillalover58</em> <img loading="lazy" src="https://fimgs.net/mdimg/avatari/s.1286303.jpg" style="width: 2em; height: 2em; border-radius: 1em"></span>
+</div>
+<div class="latest-list flex-container">
+<img loading="lazy" src="https://l.fimgs.net/news/en/14718/news.14718-60x64.jpg" style="width: 60px; height: 64px; margin-right: 0.5em; flex-shrink: 0" />
+<a href="/news/Historical-Coty-Fragrances-The-Anniversary-Edition-2004-14718.html"><span class="link-span"></span>
+<span class="ztworowseclipse">Historical Coty Fragrances: The Anniversary Edition 2004</span>
+</a>
+<span class="avatar-tip" data-tooltip aria-haspopup="true" data-show-on="medium" data-disable-hover="false" tabindex="1" title="@Mando which Frater fragrance? Did you also attend the opening at World? I have samples of most of his fragrances from that event so it would be lovely to know which one matches your description so I can test it out. Dynasty and Infanta are on my wishlist. My best friend wears Coucou. I am...">by
+<em>XristinaC</em> <img loading="lazy" src="https://fimgs.net/mdimg/avatari/s.1696778.jpg" style="width: 2em; height: 2em; border-radius: 1em"></span>
+</div>
+<div class="latest-list flex-container">
+<img loading="lazy" src="https://l.fimgs.net/news/en/19555/news.19555-60x64.jpg" style="width: 60px; height: 64px; margin-right: 0.5em; flex-shrink: 0" />
+<a href="/news/House-of-Cursed-And-so-it-begins-19555.html"><span class="link-span"></span>
+<span class="ztworowseclipse">House of Cursed: "And so it begins..." </span>
+</a>
+<span class="avatar-tip" data-tooltip aria-haspopup="true" data-show-on="medium" data-disable-hover="false" tabindex="1" title="I am Catholic but I find this argument absurd. Too many people who call themselves faithful focus on blaming and trying to root out benign symbols that they THINK are &quot;evil,&quot; rather than focusing on the actual evil that exists right in front of them. It does no one any good if you rail...">by
+<em>MichelleAntonia</em> <img loading="lazy" src="https://fimgs.net/mdimg/avatari/s.14699.jpg" style="width: 2em; height: 2em; border-radius: 1em"></span>
+</div>
+<div class="latest-list flex-container">
+<img loading="lazy" src="https://l.fimgs.net/news/en/17866/news.17866-60x64.jpg" style="width: 60px; height: 64px; margin-right: 0.5em; flex-shrink: 0" />
+<a href="/news/Nautica-Voyage-for-Men-Review-17866.html"><span class="link-span"></span>
+<span class="ztworowseclipse">Nautica Voyage for Men Review</span>
+</a>
+<span class="avatar-tip" data-tooltip aria-haspopup="true" data-show-on="medium" data-disable-hover="false" tabindex="1" title="I love this cheap great smelling freshie for the summer. It finds it&#039;s way into my rotation more often then Aventus and other expensive or rare vintage bottles I don&#039;t like to spray often. It&#039;s such an easy wear and smells great for being so simple. It&#039;s easy to forget you are...">by
+<em>DREDAY</em> <img loading="lazy" src="https://fimgs.net/mdimg/avatari/s.1490444.jpg" style="width: 2em; height: 2em; border-radius: 1em"></span>
+</div>
+<div class="latest-list flex-container">
+<img loading="lazy" src="https://l.fimgs.net/news/en/19587/news.19587-60x64.jpg" style="width: 60px; height: 64px; margin-right: 0.5em; flex-shrink: 0" />
+<a href="/news/Welcome-to-My-Island-An-Odyssey-Through-Weird-and-Wonderful-Aquatic-Scents-19587.html"><span class="link-span"></span>
+<span class="ztworowseclipse">"Welcome to My Island": An Odyssey Through Weird and Wonderful Aquatic Scents</span>
+</a>
+<span class="avatar-tip" data-tooltip aria-haspopup="true" data-show-on="medium" data-disable-hover="false" tabindex="1" title=" Orto Parisi Megamare forever 🌊🌊🌊!!! I love this category. Lorenzo Pazzaglia executes some super unisex aquatic scents in his Sea collection and I&#039;m surprised none are mentioned here. My personal favourite is Lorenzo Pazzaglia Sex-Sea . Simone Andreoli Ocean of a Midnight Moon also comes to...">by
+<em>bonkacini</em> <img loading="lazy" src="https://fimgs.net/mdimg/avatari/s.1826088.jpg" style="width: 2em; height: 2em; border-radius: 1em"></span>
+</div>
+<div class="latest-list flex-container">
+<img loading="lazy" src="https://l.fimgs.net/news/en/11923/news.11923-60x64.jpg" style="width: 60px; height: 64px; margin-right: 0.5em; flex-shrink: 0" />
+<a href="/news/In-Memory-of-Karl-Lagerfeld-Four-Lagerfeld-Perfumes-We-Love-11923.html"><span class="link-span"></span>
+<span class="ztworowseclipse">In Memory of Karl Lagerfeld: Four Lagerfeld Perfumes We Love</span>
+</a>
+<span class="avatar-tip" data-tooltip aria-haspopup="true" data-show-on="medium" data-disable-hover="false" tabindex="1" title="Starting in the beauty biz in the 90&#039;s, cool, busy salon, all the magizine subscriptions you could name. Makeup (my job) really follows fashion, we&#039;d pour over the older mags in the staff room, I&#039;d have baskets of them at home. And they got us to snip the perfume tester strips out....">by
+<em>Hunter222</em> <img loading="lazy" src="https://fimgs.net/mdimg/avatari/s.1721145.jpg" style="width: 2em; height: 2em; border-radius: 1em"></span>
+</div>
+<div class="latest-list flex-container">
+<img loading="lazy" src="https://l.fimgs.net/news/en/19577/news.19577-60x64.jpg" style="width: 60px; height: 64px; margin-right: 0.5em; flex-shrink: 0" />
+<a href="/news/More-Shades-of-Gray-Tom-Ford-Grey-Vetiver-EdP-vs-Grey-Vetiver-Parfum-19577.html"><span class="link-span"></span>
+<span class="ztworowseclipse">More Shades of Gray: Tom Ford Grey Vetiver EdP vs Grey Vetiver Parfum</span>
+</a>
+<span class="avatar-tip" data-tooltip aria-haspopup="true" data-show-on="medium" data-disable-hover="false" tabindex="1" title="This new version does nothing for me. I have both the edp and the edp with back ups of the edt. Thank goodness I read the tea leaves with that being discontinued and picked them up on Mercari before they all but disappeared. The edt though somewhat fleeting is the absolute best I layer with the...">by
+<em>Mrrob</em> <img loading="lazy" src="https://fimgs.net/himg/o.69248.png" style="width: 2em; height: 2em; border-radius: 1em"></span>
+</div>
+<div class="latest-list flex-container">
+<img loading="lazy" src="https://l.fimgs.net/news/en/18109/news.18109-60x64.jpg" style="width: 60px; height: 64px; margin-right: 0.5em; flex-shrink: 0" />
+<a href="/news/ESXENCE-2023-Slow-and-Steady-Wins-the-Race-18109.html"><span class="link-span"></span>
+<span class="ztworowseclipse">ESXENCE 2023: Slow and Steady Wins the Race</span>
+</a>
+<span class="avatar-tip" data-tooltip aria-haspopup="true" data-show-on="medium" data-disable-hover="false" tabindex="1" title="This is basically the same thing that happened with fashion going to fast fashion in the early 00&#039;s, then it was fast art/photography and the proliferation of millions of framed cheap prints and stock photos and posters and pictures in every color and pattern imaginable, and it happens as...">by
+<em>chyan</em> <img loading="lazy" src="https://fimgs.net/mdimg/avatari/s.1007973.jpg" style="width: 2em; height: 2em; border-radius: 1em"></span>
+</div>
+<div class="latest-list flex-container">
+<img loading="lazy" src="https://l.fimgs.net/news/en/19365/news.19365-60x64.jpg" style="width: 60px; height: 64px; margin-right: 0.5em; flex-shrink: 0" />
+<a href="/news/Best-in-Show-Comforting-Tea-Scents-2023-19365.html"><span class="link-span"></span>
+<span class="ztworowseclipse">Best in Show: Comforting Tea Scents (2023)</span>
+</a>
+<span class="avatar-tip" data-tooltip aria-haspopup="true" data-show-on="medium" data-disable-hover="false" tabindex="1" title="Let&#039;s not forget about CK One!">by
+<em>Crazy Diamond</em> <img loading="lazy" src="https://fimgs.net/mdimg/avatari/s.1381774.jpg" style="width: 2em; height: 2em; border-radius: 1em"></span>
+</div>
+<div style="margin-left: -0.65rem" id="anchormehere45646">
+
+<div data-fuse="22384494149"></div>
+</div>
+<div style="clear:both; height: 1rem;"></div>
+</div>
+</div>
+</div> <div id="popBrands" class="strike-title" style="margin-top: 4em;"><span>Popular brands and perfumes</span></div>
+<div class="grid-x grid-margin-y text-center">
+<div class="cell small-4 medium-2 flex-container flex-dir-column">
+<a href="https://www.fragrantica.com/designers/Amouage.html">Amouage</a>
+<a href="https://www.fragrantica.com/perfume/By-Kilian/Angels-Share-62615.html">Angels&#039; Share</a>
+<a href="https://www.fragrantica.com/designers/Ariana-Grande.html">Ariana Grande</a>
+<a href="https://www.fragrantica.com/designers/Armaf.html">Armaf</a>
+<a href="https://www.fragrantica.com/designers/Avon.html">Avon</a>
+<a href="https://www.fragrantica.com/designers/Azzaro.html">Azzaro</a>
+</div>
+<div class="cell small-4 medium-2 flex-container flex-dir-column">
+<a href="https://www.fragrantica.com/perfume/Maison-Francis-Kurkdjian/Baccarat-Rouge-540-33519.html">Baccarat Rouge 540</a>
+<a href="https://www.fragrantica.com/designers/Bath-Body-Works.html">Bath &amp; Body Works</a>
+<a href="https://www.fragrantica.com/perfume/Yves-Saint-Laurent/Black-Opium-25324.html">Black Opium</a>
+<a href="https://www.fragrantica.com/designers/Burberry.html">Burberry</a>
+<a href="https://www.fragrantica.com/designers/Bvlgari.html">Bvlgari</a>
+<a href="https://www.fragrantica.com/designers/By-Kilian.html">By Kilian</a>
+</div>
+<div class="cell small-4 medium-2 flex-container flex-dir-column">
+<a href="https://www.fragrantica.com/perfume/Maison-Martin-Margiela/By-the-Fireplace-31623.html">By the Fireplace</a>
+<a href="https://www.fragrantica.com/designers/Byredo.html">Byredo</a>
+<a href="https://www.fragrantica.com/designers/Calvin-Klein.html">Calvin Klein</a>
+<a href="https://www.fragrantica.com/designers/Carolina-Herrera.html">Carolina Herrera</a>
+<a href="https://www.fragrantica.com/designers/Chanel.html">Chanel</a>
+<a href="https://www.fragrantica.com/perfume/Armaf/Club-de-Nuit-Intense-Man-34696.html">Club de Nuit Intense Man</a>
+</div>
+<div class="cell small-4 medium-2 flex-container flex-dir-column">
+<a href="https://www.fragrantica.com/designers/Creed.html">Creed</a>
+<a href="https://www.fragrantica.com/designers/Dior.html">Dior</a>
+<a href="https://www.fragrantica.com/perfume/Dior/Dior-Homme-Intense-2011-13016.html">Dior Homme Intense 2011</a>
+<a href="https://www.fragrantica.com/designers/Diptyque.html">Diptyque</a>
+<a href="https://www.fragrantica.com/designers/Dolce-Gabbana.html">Dolce&amp;Gabbana</a>
+<a href="https://www.fragrantica.com/designers/Etat-Libre-d-Orange.html">Etat Libre d&#039;Orange</a>
+</div>
+<div class="cell small-4 medium-2 flex-container flex-dir-column">
+<a href="https://www.fragrantica.com/designers/Frederic-Malle.html">Frederic Malle</a>
+<a href="https://www.fragrantica.com/designers/Giorgio-Armani.html">Giorgio Armani</a>
+<a href="https://www.fragrantica.com/designers/Givenchy.html">Givenchy</a>
+<a href="https://www.fragrantica.com/designers/Gucci.html">Gucci</a>
+<a href="https://www.fragrantica.com/designers/Guerlain.html">Guerlain</a>
+<a href="https://www.fragrantica.com/designers/Hermes.html">Hermès</a>
+</div>
+<div class="cell small-4 medium-2 flex-container flex-dir-column">
+<a href="https://www.fragrantica.com/designers/Hugo-Boss.html">Hugo Boss</a>
+<a href="https://www.fragrantica.com/designers/Initio-Parfums-Prives.html">Initio Parfums Prives</a>
+<a href="https://www.fragrantica.com/designers/Jean-Paul-Gaultier.html">Jean Paul Gaultier</a>
+<a href="https://www.fragrantica.com/designers/Jo-Malone-London.html">Jo Malone London</a>
+<a href="https://www.fragrantica.com/designers/Juliette-Has-A-Gun.html">Juliette Has A Gun</a>
+<a href="https://www.fragrantica.com/designers/Kayali-Fragrances.html">Kayali Fragrances</a>
+</div>
+<div class="cell small-4 medium-2 flex-container flex-dir-column">
+<a href="https://www.fragrantica.com/designers/Kenzo.html">Kenzo</a>
+<a href="https://www.fragrantica.com/perfume/Lattafa-Perfumes/Khamrah-75805.html">Khamrah</a>
+<a href="https://www.fragrantica.com/designers/Lalique.html">Lalique</a>
+<a href="https://www.fragrantica.com/designers/Lancome.html">Lancôme</a>
+<a href="https://www.fragrantica.com/designers/Lattafa-Perfumes.html">Lattafa Perfumes</a>
+<a href="https://www.fragrantica.com/designers/Le-Labo.html">Le Labo</a>
+</div>
+<div class="cell small-4 medium-2 flex-container flex-dir-column">
+<a href="https://www.fragrantica.com/perfume/Jean-Paul-Gaultier/Le-Male-Le-Parfum-61856.html">Le Male Le Parfum</a>
+<a href="https://www.fragrantica.com/designers/Maison-Francis-Kurkdjian.html">Maison Francis Kurkdjian</a>
+<a href="https://www.fragrantica.com/designers/Maison-Martin-Margiela.html">Maison Martin Margiela</a>
+<a href="https://www.fragrantica.com/designers/Mancera.html">Mancera</a>
+<a href="https://www.fragrantica.com/designers/Memo-Paris.html">Memo Paris</a>
+<a href="https://www.fragrantica.com/designers/Montale.html">Montale</a>
+</div>
+<div class="cell small-4 medium-2 flex-container flex-dir-column">
+<a href="https://www.fragrantica.com/designers/Montblanc.html">Montblanc</a>
+<a href="https://www.fragrantica.com/designers/Mugler.html">Mugler</a>
+<a href="https://www.fragrantica.com/designers/Narciso-Rodriguez.html">Narciso Rodriguez</a>
+<a href="https://www.fragrantica.com/designers/Natura.html">Natura</a>
+<a href="https://www.fragrantica.com/designers/Nishane.html">Nishane</a>
+<a href="https://www.fragrantica.com/designers/O-Boticario.html">O Boticário</a>
+</div>
+<div class="cell small-4 medium-2 flex-container flex-dir-column">
+<a href="https://www.fragrantica.com/designers/Paco-Rabanne.html">Paco Rabanne</a>
+<a href="https://www.fragrantica.com/designers/Parfums-de-Marly.html">Parfums de Marly</a>
+<a href="https://www.fragrantica.com/designers/Penhaligon-s.html">Penhaligon&#039;s</a>
+<a href="https://www.fragrantica.com/designers/Prada.html">Prada</a>
+<a href="https://www.fragrantica.com/designers/Roja-Dove.html">Roja Dove</a>
+<a href="https://www.fragrantica.com/designers/Serge-Lutens.html">Serge Lutens</a>
+</div>
+<div class="cell small-4 medium-2 flex-container flex-dir-column">
+<a href="https://www.fragrantica.com/perfume/Viktor-Rolf/Spicebomb-Extreme-30499.html">Spicebomb Extreme</a>
+<a href="https://www.fragrantica.com/perfume/Tom-Ford/Tobacco-Vanille-1825.html">Tobacco Vanille</a>
+<a href="https://www.fragrantica.com/designers/Tom-Ford.html">Tom Ford</a>
+<a href="https://www.fragrantica.com/designers/Valentino.html">Valentino</a>
+<a href="https://www.fragrantica.com/designers/Versace.html">Versace</a>
+<a href="https://www.fragrantica.com/designers/Victoria-s-Secret.html">Victoria&#039;s Secret</a>
+</div>
+<div class="cell small-4 medium-2 flex-container flex-dir-column">
+<a href="https://www.fragrantica.com/designers/Viktor-Rolf.html">Viktor&amp;Rolf</a>
+<a href="https://www.fragrantica.com/designers/Xerjoff.html">Xerjoff</a>
+<a href="https://www.fragrantica.com/perfume/Xerjoff/XJ-1861-Naxos-30529.html">XJ 1861 Naxos</a>
+<a href="https://www.fragrantica.com/perfume/Yves-Saint-Laurent/Y-Eau-de-Parfum-50757.html">Y Eau de Parfum</a>
+<a href="https://www.fragrantica.com/designers/Yves-Saint-Laurent.html">Yves Saint Laurent</a>
+<a href="https://www.fragrantica.com/designers/Zara.html">Zara</a>
+</div>
+</div>
+<div style="clear: bottom; margin-top: 1rem;"></div>
+
+<div data-fuse="22384494155"></div>
+<div class="callout text-center">
+<a href="#app" class="button primary hollow" data-smooth-scroll>Jump to the top</a>
+<p>Fragrantica in your language:<br>
+| <a href="https://www.fragrantica.de/" rel="noopener" target="_blank">Deutsch</a> | <a href="https://www.fragrantica.es/" rel="noopener" target="_blank">Español</a> | <a href="https://www.fragrantica.fr/" rel="noopener" target="_blank">Français</a> | <a href="https://www.fragrantica.cz/" rel="noopener" target="_blank">Čeština</a> | <a href="https://www.fragrantica.it/" rel="noopener" target="_blank">Italiano</a> | <a href="https://www.fragrantica.ru/" rel="noopener" target="_blank">Русский</a> | <a href="https://www.fragrantica.pl/" rel="noopener" target="_blank">Polski</a> | <a href="https://www.fragrantica.com.br/" rel="noopener" target="_blank">Português</a> | <a href="https://www.fragrantica.gr/" rel="noopener" target="_blank">Ελληνικά</a> | <a href="https://www.fragrantica.asia/" rel="noopener" target="_blank">汉语</a> | <a href="https://www.fragrantica.nl/" rel="noopener" target="_blank">Nederlands</a> | <a href="https://www.punmiris.com/" rel="noopener" target="_blank">Srpski</a> | <a href="https://www.fragrantica.ro/" rel="noopener" target="_blank">Română</a> | <a href="https://www.fragranticarabia.com/" rel="noopener" target="_blank">العربية</a> | <a href="https://www.fragrantica.ua/" rel="noopener" target="_blank">Українська</a> | <a href="https://www.fragrantica.mn/" rel="noopener" target="_blank">Монгол</a> | <a href="https://www.fragrantica.co.il/" rel="noopener" target="_blank">עברית</a> | </p>
+<p>Copyrights © 2006-2022 Fragrantica.com perfumes magazine - All Rights Reserved - do not copy anything without prior written permission. Please read the <a href="https://www.fragrantica.com/Terms-of-Service.phtml" style="color: blue;">Terms of Service</a> and <a href="https://www.fragrantica.com/privacy-policy.phtml" style="color: blue;">Privacy policy.</a><br/> Fragrantica® Inc, United States</p>
+</div>
+</div>
+</div>
+<user-activity-notification></user-activity-notification>
+<login-register-nag></login-register-nag>
+<login-register-nag-global></login-register-nag-global>
+<notification-pop-up></notification-pop-up>
+</div>
+<script>
+    let md5_mfga_js = "8aed7eee2572f1e83fd92a72eaaf6d89";
+    let toAbby = "ODg3YTdhNzM2NDEzMTZkNTljMDY3YmZjMzdhYzU0YWU5Mzc0ZmM1N2M2NjJkYjA4NDhiZDVlMDYzNDQ3NTA4Y3ZhbGlkVW50aWw9MTcwNjAyNzIxOA==";
+    let validUntil = 1706027218;
+    let toLocale = "en";
+    let canonical_domain = "www.fragrantica.com";
+    let designers_folder = "designers";
+    let perfumes_folder = "perfume";
+    let news_folder = "news";
+    let autoFocus = false;
+    window.Lightnews = {  };
+    let channelName = "www-en-fr-public";
+    let eventName = "en-livefeed";
+    let symbol = "en";
+    let use_notifications = 0;
+    let user_logged =  0;
+    let user_id =  1;
+    let xml_lang = "EN";
+    let admin = 0;
+    let moderator = 0;
+    let image_perfumes_path = "https://fimgs.net/";
+        //langVars or any other variable that we want to 'See' in Vue has to be defined BEFORE
+    //including script with vue like mfga-app.js
+    let langVars = {
+        now_i_wear: "Currently I am wearing",
+        confirm_delete: "Do you really want to delete your comment?",
+        submit: "Submit",
+        edit: "Edit",
+        cancel: "Cancel"
+    };
+
+    let PerfumeSearchLangVar = {
+        lang: "EN",
+        gender:"Gender",
+        female:"female",
+        male:"male",
+        unisex: "unisex",
+        shared: "shared",
+        designers:"Designers",
+        noses:"Perfumers",
+        groups:"Groups",
+        countries:"Countries",
+        notes:"Notes",
+        niche:"Niche designer",
+        celebrity:"Celebrity brand",
+        natural_perfumery:"Natural perfumery",
+        specialty_brands:"Specialty Designers",
+        year:"Year",
+        more:"more",
+        rating:"Rating",
+        rating_explain:"Your votes what you love, like or dislike are used to calculate fragrance rating.",
+        parent_company:"Parent company",
+        industries:"Industries",
+        collections:"Collections",
+        filter:"FILTER",
+        clear_all:"Clear all filters",
+        search:"Search",
+        type_to_narrow_list:"Type a few letters to narrow the list",
+        popularity:"Popularity",
+        most_popular:"Most popular",
+        sorting: {
+            most_popular:"Most popular",
+            highest_rated:"Highest rated",
+            recommended_spring:"Recommended for spring",
+            recommended_summer:"Recommended for summer",
+            recommended_autumn:"Recommended for autumn",
+            recommended_winter:"Recommended for winter",
+            recommended_day:"Recommended for day use",
+            recommended_night:"Recommended for night use",
+            recommended_longevity:"The longest lasting (longevity)",
+            recommended_sillage:"The biggest projection (sillage)"
+        },
+        search_designers:"Search for designers",
+        search_nose_name:"Search perfumer name",
+        search_ingredients:"Search for ingredients",
+        country:"Country",
+        show_more_results:"Show more results",
+        show_less:"Show less",
+        show_more:"Show more",
+        no_results:"No results. Try to broaden your search parameters.",
+        from_year:"From year",
+        to_year:"to year"
+
+    };
+
+    let nagLangVariables = {
+        join:  "Join Fragrantica!",
+        intro: "<p>Become a member of the most vibrant fragrance community for free and get the most out of Fragrantica. <b>Unlock member-only features<\/b> on this website.<\/p>",
+        register: "Register",
+        login: "Log in",
+        justBuy: "I just want to buy this fragrance",
+    }
+
+    let perfumeFinderLangVariables = {
+        who_likes_this:  "Who likes this...",
+        also_likes_this: "Also might like this...",
+        search_placeholder_text: "Search for perfumes",
+        sort_by: "Sort by",
+        with_notes: "With notes:",
+        similarity: "Similarity",
+        popularity: "Popularity",
+    }
+
+    let nominateLangVariables = {
+        nominate_fp_button_label:  "Nominate for best fragram photos",
+        nominate_fp_button_nominate_done: "You have already nominated. Check votes!",
+        nominate_notification_text: "You have successfully nominated!",
+        nominate_notification_see_votes: "See votes!",
+        nominate_notification_close: "Close",
+    }
+
+    let searchReviewsLangVariables = {
+        search_reviews:  "Search reviews",
+        type_username_keywords: "type in keywords or username",
+    }
+
+    let trackingLang = {
+        trackingTitle: "Tracking Perfumes",
+        i_have: "I have it",
+        i_had: "I had it",
+        i_want: "I want it",
+        i_wore: "I wore",
+        my_signature: "My signature",
+        i_currently_wearing: "Currently wearing",
+    };
+
+    let perfumeShortcutLangVar = {
+        rating:"Rating",
+        pyramid:"Pyramid",
+        reviews:"Reviews",
+    }
+
+    let newsShortcutLangVar = {
+        reply:"Reply",
+        top:"Top",
+        comments:"Comments",
+    }
+
+    let currentlyWearingLanguage = {
+        today_wore:"Today I am wearing",
+        my_perfume_timeline:"My perfume timeline",
+        wearing_title: "Currently Wearing",
+        which_perfume_wearing: "Which perfume are you wearing today?",
+        click_here_to_set: "Click here to perfume yourself!",
+        find_fragrance_wear: "What are you wearing today? Start typing the fragrance name",
+        please_first_choose_perfume: "Please, choose perfume first!",
+        show_my_wardrobe: "Show my wardrobe",
+        nothing_now: "Nothing right now!",
+        no_fragrance: "Lately you did not wear any fragrance.",
+        it_is_not_in_database: "It's not in the database",
+        choose_from_wardrobe: "or choose from your perfume wardrobe",
+        day: "day",
+        night: "night",
+        all: "all",
+        type_to_narrow_list: "Type a few letters to narrow the list",
+        tiw_send_comment_placeholder_text: "Optional comment",
+        tiw_add_perfume_placeholder_text: "Enter name of perfume",
+        tiw_add_perfume_button: "Add perfume",
+        comment_saved: "Your comment is saved!"
+    };
+
+    let addReviewLanguage = {
+        user_disclosure: "<b>Disclosure<\/b>: I am not compensated for reviews. I always give my honest opinions, findings, beliefs, or experiences on any topics or products. If there is any material connection I share with the seller of the product I will disclose that relationship within the text of my review.",
+        submit: "Submit"
+    };
+
+
+    let noteRatingLanguage = {
+        sastojak_tip_read_more:"Read more about",
+        sastojak_tip_intro:"Rate only the most important ingredients you sense in this fragrance.",
+        sastojak_opt__1:"Does not exist (-1)",
+        sastojak_opt_1:"Noticeable (1)",
+        sastojak_opt_0:"Neutral (0)",
+        sastojak_opt_2:"Intensive (2)",
+        sastojak_opt_3:"Very intensive (3)"
+    }
+
+    let LongevitySillageLangLanguage = {
+        none:"no vote",
+        lp_longevity:"Longevity",
+        lp_projection:"Sillage",
+        lp_drag_slider_to_vote:"drag slider to vote",
+        lp_poor_longevity:"very weak",
+        lp_weak:"weak",
+        lp_moderate:"moderate",
+        lp_long_lasting:"long lasting",
+        lp_very_long_lasting:"eternal",
+        lp_soft:"intimate",
+        lp_moderate:"moderate",
+        lp_heavy:"strong",
+        lp_enormous:"enormous",
+        lp_skin_scent_without_scent_trail:"sits close to skin without a trail",
+        lp_radiates_within_arms_length_and_leaves_a_light_trail:"radiates within arm length",
+        lp_radiates_within_6_feet_and_leaves_moderate_trail:"radiates within 6 feet",
+        lp_fills_a_room_and_lingers_long_after_you_ve_gone:"fills a room",
+    }
+
+    let longevityChartLang = {
+        1: "very weak",
+        2: "weak",
+        3: "moderate",
+        4: "long lasting",
+        5: "eternal",
+    }
+
+    let sillageChartLang = {
+        1: "intimate",
+        2: "moderate",
+        3: "strong",
+        4: "enormous",
+    }
+
+    let longevityLangVar = {
+        0: "drag slider to vote",
+        1: "very weak" +' ' + '<em>30 min - 1h<\/em>',
+        2: "weak" +' ' + '<em>1h - 2h<\/em>',
+        3: "moderate" +' ' + '<em>3h - 6h<\/em>',
+        4: "long lasting" +' ' + '<em>7h - 12h<\/em>',
+        5: "eternal" +' ' + '<em>12h +<\/em>',
+    }
+    let sillageLangVar = {
+        0: "drag slider to vote",
+        1: "intimate" +' ' + '<em>' + "sits close to skin without a trail" +'<\/em>',
+        2: "moderate" +' ' + '<em>' + "radiates within arm length" +'<\/em>',
+        3: "strong" +' ' + '<em>' + "radiates within 6 feet" +'<\/em>',
+        4: "enormous" +' ' + '<em>' + "fills a room" +'<\/em>',
+    }
+
+    let genderLangVar = {
+        none:"no vote",
+        gender:"Gender",
+        female:"female",
+        female_unisex:"more female",
+        male:"male",
+        male_unisex:"more male",
+        unisex: "unisex",
+        shared: "shared",
+    }
+
+    let relationLangVar = {
+        have:"I have it",
+        had:"I had it",
+        want:"I want it",
+    }
+
+    let trendingLangVar = {
+        title:"TREND",
+    }
+    let seasonsLangVar = {
+        day:"day",
+        night:"night",
+        winter:"winter",
+        spring:"spring",
+        summer:"summer",
+        autumn:"fall",
+    }
+
+    let likesLangVar = {
+        love:"love",
+        like:"like",
+        dislike:"dislike",
+        neutral:"ok",
+        hate:"hate",
+    }
+
+    let priceValueLangLanguage = {
+        none:"no vote",
+        lp_drag_slider_to_vote: "drag slider to vote",
+        pv_extremely_overpriced: "way overpriced",
+        pv_slightly_overpriced: "overpriced",
+        pv_average_price: "ok",
+        pv_good_value: "good value",
+        pv_great_value: "great value",
+        pv_title: "PRICE VALUE",
+    }
+    let priceValueChartLang = {
+        1: "way overpriced",
+        2: "overpriced",
+        3: "ok",
+        4: "good value",
+        5: "great value",
+    }
+
+    let priceValueLangVar = {
+        0: "drag slider to vote",
+        1: "way overpriced" +' ' + '<em>' + "way overpriced" +'<\/em>',
+        2: "overpriced" +' ' + '<em>' + "overpriced" +'<\/em>',
+        3: "ok" +' ' + '<em>' + "ok" +'<\/em>',
+        4: "good value" +' ' + '<em>' + "good value" +'<\/em>',
+        5: "great value" +' ' + '<em>' + "great value" +'<\/em>',
+    }
+
+    let notificationsLangVar = {
+        you_rated_this_perfume_as:"You rated this perfume as",
+        you_rated:"You rated",
+        as:"as",
+        suggest_for_similar_perfume:"You suggested a similar perfume",
+        recommended_perfume_for:"You recommended this perfume for",
+        you_have_marked_this_perfume:"You have marked this perfume as",
+        perfume_is_already_on_your_shelf:"The perfume is already on your shelf",
+    }
+
+    let memberProfileLangVar = {
+        add_custom_shelf:"Add custom shelf",
+        shelf:"shelf",
+        add_perfume_on:"Add perfume on",
+        choose_from_wardrobe:"or choose from your perfume wardrobe",
+        type_for_particular:"Type in designer or fragrance name to find a particular fragrance",
+        my_favorite_fragrances:"My favorite fragrances",
+        have_to_signature:"I have to find it",
+        no_signature:"Signature is not set yet",
+        no_top:"did not set favorite fragrances",
+        delete_title:"Delete",
+        update_title:"Update",
+        cancel_title:"Cancel",
+        member_tools:"shelf tools",
+        member_tools_on:"on",
+        member_tools_off:"off",
+        delete_alert_title:"Removing Fragrance!",
+        delete_alert_question:"Do you really want to remove the fragrance from your shelf?",
+        delete_yes:"Yes, Remove",
+        delete_cancel:"Cancel",
+        shelf_wardrobe:"Wardrobe",
+        shelf_custom:"Custom Shelves",
+        shelf_votes:"Votes",
+    }
+
+    let userNoteBookLangVar = {
+        placeholder:"Your private note up to 255 characters long.",
+        title:"for test",
+        add_note:"add a personal note",
+        edit_notebook:"Edit my note",
+        save:"Save",
+    }
+
+    let customizePerfumePageLangVar = {
+        customize_perfume_page:"Customize perfume page",
+        customize_small_chart:"Small chart",
+        customize_large_chart:"Large chart",
+        customize_colors:"Colors",
+        customize_charts_size:"Charts size",
+    }
+
+    let done_flickity = false;
+</script>
+<script>
+        let linkQuery = "fragrance";
+    </script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js" integrity="sha512-fD9DI5bZwQxOi7MhYWnnNPlvXdp/2Pj3XSTRrFs5FQa4mizyGLnJcN6tuvUS6LbmgN1ut+XGSABKvjN0H6Aoow==" crossorigin="anonymous" referrerpolicy="no-referrer"></script><script src="/new-js/mfga-app.js?v=rtgF88aed7eee2572f1e83fd92a72eaaf6d89"></script>
+<script>
+    var lang = 'EN';
+    $(document).ready(function () {
+                if (lang == 'EN') $("#subnav a").attr("href", function () {
+            return this.href.replace(/www.fragrantica.com/, "www.fragrantica.com") });
+                if (lang == 'DE') $("#subnav a").attr("href", function () {
+            return this.href.replace(/www.fragrantica.com/, "www.fragrantica.de").replace(/designers/, "Designer").replace(/perfume/, "Parfum") });
+                if (lang == 'ES') $("#subnav a").attr("href", function () {
+            return this.href.replace(/www.fragrantica.com/, "www.fragrantica.es").replace(/designers/, "disenador") });
+                if (lang == 'FR') $("#subnav a").attr("href", function () {
+            return this.href.replace(/www.fragrantica.com/, "www.fragrantica.fr").replace(/designers/, "designer").replace(/perfume/, "parfum") });
+                if (lang == 'CS') $("#subnav a").attr("href", function () {
+            return this.href.replace(/www.fragrantica.com/, "www.fragrantica.cz").replace(/designers/, "designer") });
+                if (lang == 'IT') $("#subnav a").attr("href", function () {
+            return this.href.replace(/www.fragrantica.com/, "www.fragrantica.it").replace(/designers/, "designer") });
+                if (lang == 'RU') $("#subnav a").attr("href", function () {
+            return this.href.replace(/www.fragrantica.com/, "www.fragrantica.ru") });
+                if (lang == 'PL') $("#subnav a").attr("href", function () {
+            return this.href.replace(/www.fragrantica.com/, "www.fragrantica.pl").replace(/designers/, "marki").replace(/perfume/, "perfumy") });
+                if (lang == 'PT') $("#subnav a").attr("href", function () {
+            return this.href.replace(/www.fragrantica.com/, "www.fragrantica.com.br").replace(/designers/, "desenhista") });
+                if (lang == 'EL') $("#subnav a").attr("href", function () {
+            return this.href.replace(/www.fragrantica.com/, "www.fragrantica.gr").replace(/designers/, "designer") });
+                if (lang == 'ZH') $("#subnav a").attr("href", function () {
+            return this.href.replace(/www.fragrantica.com/, "www.fragrantica.asia").replace(/designers/, "designer") });
+                if (lang == 'NL') $("#subnav a").attr("href", function () {
+            return this.href.replace(/www.fragrantica.com/, "www.fragrantica.nl").replace(/designers/, "ontwerper").replace(/perfume/, "parfum") });
+                if (lang == 'SR') $("#subnav a").attr("href", function () {
+            return this.href.replace(/www.fragrantica.com/, "www.punmiris.com").replace(/designers/, "dizajner").replace(/perfume/, "parfem") });
+                if (lang == 'RO') $("#subnav a").attr("href", function () {
+            return this.href.replace(/www.fragrantica.com/, "www.fragrantica.ro").replace(/designers/, "creatori").replace(/perfume/, "parfum") });
+                if (lang == 'AR') $("#subnav a").attr("href", function () {
+            return this.href.replace(/www.fragrantica.com/, "www.fragranticarabia.com").replace(/perfume/, "perfumes") });
+                if (lang == 'UK') $("#subnav a").attr("href", function () {
+            return this.href.replace(/www.fragrantica.com/, "www.fragrantica.ua").replace(/perfume/, "perfumes") });
+                if (lang == 'MN') $("#subnav a").attr("href", function () {
+            return this.href.replace(/www.fragrantica.com/, "www.fragrantica.mn").replace(/perfume/, "perfumes") });
+                if (lang == 'HE') $("#subnav a").attr("href", function () {
+            return this.href.replace(/www.fragrantica.com/, "www.fragrantica.co.il").replace(/perfume/, "perfumes") });
+            });
+</script>
+<script data-cfasync="false">
+    // Check that service workers are supported
+    if ('serviceWorker' in navigator) {
+        // Use the window load event to keep the page load performant
+        window.addEventListener('load', () => {
+            navigator.serviceWorker.register('/service-worker.js?v=rtgF88aed7eee2572f1e83fd92a72eaaf6d89');
+        });
+    }
+</script>
+<script>
+    $(document).ready(function () {
+        $('#fragranticaloader').fadeOut(20);
+    });
+</script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'844f0102fbe50e17',t:'MTcwNTE2MzIxOC43MzEwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>
