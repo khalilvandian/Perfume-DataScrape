@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=CPVMfBWCIXgE5z9mTvYZFcWUotkTH2FyHdMwpiKQvkNc71YK7jKjjmExQHXkeFPwYe40Jw45N-LhxeXTqP1Z-kKxy3ZaO0IyYQ-4rgM_lFs7X58A_1DTLTVRtBdbKDRu" charset="UTF-8"></script><style type="text/css">
+        .frg-ebay-product-title-text {
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+        div#frg-ebay-ad-0 * {
+            margin: 0;
+            padding: 0;
+            border: 0;
+            top: 0;
+            bottom: 0;
+            right: 0;
+            left: 0;
+            box-sizing: border-box;
+            background: 0;
+            box-shadow: none;
+            text-transform: none;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -khtml-user-select: none;
+            -ms-user-select: none;
+            direction: ltr
+        }
+
+        div#frg-ebay-ad-0 div:focus, div#frg-ebay-ad-0 a:focus, div#frg-ebay-ad-0 span:focus {
+            outline: 0
+        }
+
+        div#frg-ebay-ad-0 {
+            max-width: 1021px;
+            font-family: "Arial";
+            font-size: 13px;
+            color: #111;
+            position: relative;
+            clear: right
+        }
+
+        div#frg-ebay-ad-0 .frg-ebay-header {
+            margin-bottom: 20px;
+            line-height: 20px;
+            text-align: left
+        }
+
+        div#frg-ebay-ad-0 .frg-ebay-header .frg-ebay-header-text {
+            font-size: 20px;
+            font-family: Arial, sans-serif
+        }
+
+        div#frg-ebay-ad-0.frg-ebay-dark .frg-ebay-header .frg-ebay-header-text {
+            color: #FFF
+        }
+
+        div#frg-ebay-ad-0 .frg-ebay-content {
+            overflow: hidden
+        }
+
+        div#frg-ebay-ad-0.frg-ebay-hover-shadow .frg-ebay-content {
+            overflow: visible
+        }
+
+        div#frg-ebay-ad-0.frg-ebay-carousel-mobile .frg-ebay-content {
+            overflow-x: auto;
+            -webkit-overflow-scrolling: touch
+        }
+
+        div#frg-ebay-ad-0 div.frg-ebay-products-list {
+            list-style-type: none
+        }
+
+        div#frg-ebay-ad-0.frg-ebay-carousel-mobile div.frg-ebay-products-list {
+            white-space: nowrap;
+            display: inline-block;
+            display: -moz-inline-box
+        }
+
+        div#frg-ebay-ad-0.frg-ebay-carousel-mobile div.frg-ebay-products-list div.frg-ebay-product .frg-ebay-product-title-container a {
+            white-space: normal
+        }
+
+        div#frg-ebay-ad-0 div.frg-ebay-products-list div.frg-ebay-product {
+            float: left;
+            width: 25%;
+            margin-bottom: 10px;
+            margin-left: 5px;
+            margin-right: 5px;
+            height: 300px;
+            border: 1px solid #f0f7ee;
+            cursor: pointer;
+            display: list-item;
+            text-align: left;
+            list-style: none;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            position: relative;
+            box-sizing: border-box;
+            background-color: #fff
+        }
+
+        div#frg-ebay-ad-0.frg-ebay-hover-shadow div.frg-ebay-products-list div.frg-ebay-product {
+            -webkit-transition: box-shadow .15s;
+            -moz-transition: box-shadow .15s;
+            -ms-transition: box-shadow .15s;
+            -o-transition: box-shadow .15s;
+            transition: box-shadow .15s;
+            border-collapse: separate
+        }
+
+        div#frg-ebay-ad-0.frg-ebay-hover-shadow div.frg-ebay-products-list div.frg-ebay-product:hover {
+            -webkit-box-shadow: 0 0 14px 0 #c3c3c3;
+            -moz-box-shadow: 0 0 14px 0 #c3c3c3;
+            box-shadow: 0 0 14px 0 #c3c3c3
+        }
+
+        div#frg-ebay-ad-0.frg-ebay-no-borders div.frg-ebay-products-list div.frg-ebay-product {
+            border: 0
+        }
+
+        div#frg-ebay-ad-0 div.frg-ebay-products-list div.frg-ebay-product:focus {
+            border-color: #f5af19;
+            outline: 0
+        }
+
+        div#frg-ebay-ad-0 div.frg-ebay-products-list div.frg-ebay-product .frg-ebay-product-image-container {
+            padding: 5px 5px 0 5px;
+            height: 165px;
+            width: 100%;
+            display: table;
+            table-layout: fixed
+        }
+
+        div#frg-ebay-ad-0 div.frg-ebay-products-list div.frg-ebay-product .frg-ebay-product-image-container div {
+            display: table-cell;
+            vertical-align: middle;
+            width: 100%;
+            height: 100%
+        }
+
+        div#frg-ebay-ad-0 div.frg-ebay-products-list div.frg-ebay-product a.frg-ebay-product-title {
+            z-index: 2
+        }
+
+        div#frg-ebay-ad-0 div.frg-ebay-products-list div.frg-ebay-product a.frg-ebay-product-title span.frg-ebay-product-link-catcher {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            top: 0;
+            left: 0;
+            z-index: 2
+        }
+
+        div#frg-ebay-ad-0 div.frg-ebay-products-list div.frg-ebay-product .frg-ebay-product-title-container {
+            padding-top: 20px;
+            padding-left: 4%;
+            padding-right: 4%;
+            overflow: hidden
+        }
+
+        div#frg-ebay-ad-0 div.frg-ebay-products-list div.frg-ebay-product .frg-ebay-product-title-container a {
+            color: #3167b1;
+            line-height: 20px;
+            word-wrap: normal;
+            text-decoration: none;
+            text-overflow: ellipsis;
+            overflow: hidden;
+            display: inline-block;
+            width: 100%;
+            font-weight: normal
+        }
+
+        div#frg-ebay-ad-0 div.frg-ebay-products-list div.frg-ebay-product:hover .frg-ebay-product-title-container a {
+            color: #f5af19;
+            font-weight: normal
+        }
+
+        div#frg-ebay-ad-0.frg-ebay-hover-shadow div.frg-ebay-products-list div.frg-ebay-product .frg-ebay-product-title-container a {
+            -webkit-transition: color .15s;
+            -moz-transition: color .15s;
+            -ms-transition: color .15s;
+            -o-transition: color .15s;
+            transition: color .15s
+        }
+
+        div#frg-ebay-ad-0.frg-ebay-ad-search-mobile div.frg-ebay-products-list div.frg-ebay-product:hover .frg-ebay-product-title-container a {
+            color: #3167b1
+        }
+
+        div#frg-ebay-ad-0 div.frg-ebay-products-list div.frg-ebay-product img {
+            background: 0;
+            box-shadow: none;
+            display: block;
+            margin: auto;
+            max-width: 100% !important;
+            max-height: 150px !important;
+            height: auto !important;
+            width: auto !important;
+            float: none;
+            border: 0 !important;
+            padding: 0 !important;
+            opacity: 1
+        }
+
+        div#frg-ebay-ad-0 div.frg-ebay-products-list div.frg-ebay-product:hover img {
+            opacity: .7
+        }
+
+        div#frg-ebay-ad-0.frg-ebay-hover-shadow div.frg-ebay-products-list div.frg-ebay-product:hover img {
+            opacity: 1
+        }
+
+        div#frg-ebay-ad-0.frg-ebay-ad-search-mobile div.frg-ebay-products-list div.frg-ebay-product:hover img {
+            opacity: 1
+        }
+
+        div#frg-ebay-ad-0 div.frg-ebay-products-list div.frg-ebay-product .frg-ebay-product-attr-container {
+            position: absolute;
+            top: auto;
+            bottom: 5px;
+            left: auto;
+            right: auto;
+            margin-left: 4%;
+            margin-right: 4%;
+            width: 92%
+        }
+
+        div#frg-ebay-ad-0 div.frg-ebay-products-list div.frg-ebay-product .frg-ebay-product-offer-price {
+            font-weight: bold;
+            font-family: Arial;
+            padding-right: 5px
+        }
+
+        div#frg-ebay-ad-0 div.frg-ebay-products-list div.frg-ebay-product .frg-ebay-product-list-price {
+            text-decoration: line-through;
+            font-family: Arial;
+            font-size: 10px;
+            color: #4a4a4a;
+            padding-right: 5px
+        }
+
+        div#frg-ebay-ad-0 div.frg-ebay-products-list div.frg-ebay-product .frg-ebay-product-price {
+            line-height: 18px !important
+        }
+
+        div#frg-ebay-ad-0 .frg-ebay-brand a {
+            width: inherit
+        }
+
+        div#frg-ebay-ad-0 div.frg-ebay-products-list div.frg-ebay-product div.frg-ebay-product-deal .frg-ebay-product-price {
+            padding-left: 4%;
+            padding-right: 4%;
+            margin-top: 5px
+        }
+
+        div#frg-ebay-ad-0 div.frg-ebay-products-list div.frg-ebay-product div.frg-ebay-product-deal .frg-ebay-product-offer-price {
+            font-size: 13px
+        }
+
+        div#frg-ebay-ad-0 div.frg-ebay-products-list div.frg-ebay-product div.frg-ebay-product-deal .frg-ebay-product-title-container a {
+            margin-bottom: 2px
+        }
+
+        div#frg-ebay-ad-0 div.frg-ebay-products-list div.frg-ebay-product div.frg-ebay-product-deal .frg-ebay-product-title-container {
+            padding-top: 10px
+        }
+
+        div#frg-ebay-ad-0 div.frg-ebay-products-list div.frg-ebay-product div.frg-ebay-product-deal .frg-ebay-product-attr-container {
+            bottom: 0;
+            min-height: 28px
+        }
+
+        div#frg-ebay-ad-0 .frg-ebay-header {
+            margin-bottom: 10px
+        }
+
+        div#frg-ebay-ad-0 div.frg-ebay-products-list div.frg-ebay-product .frg-ebay-product-image-container {
+            height: 120px
+        }
+
+        div#frg-ebay-ad-0 div.frg-ebay-products-list div.frg-ebay-product img {
+            max-height: 115px !important
+        }
+
+        div#frg-ebay-ad-0 div.frg-ebay-products-list div.frg-ebay-product .frg-ebay-product-title-container a {
+            line-height: 17px !important;
+            font-size: 12px !important
+        }
+
+        div#frg-ebay-ad-0 div.frg-ebay-products-list div.frg-ebay-product .frg-ebay-product-title-container {
+            padding-top: 10px
+        }
+
+        div#frg-ebay-ad-0 div.frg-ebay-products-list div.frg-ebay-product .frg-ebay-product-offer-price {
+            font-size: 12px
+        }
+
+        div#frg-ebay-ad-0 .frg-ebay-header .frg-ebay-header-text img {
+            height: 25px;
+            vertical-align: middle;
+            float: right
+        }
+        div#frg-ebay-ad-0 .frg-ebay-header .frg-ebay-header-text a {
+            text-decoration: none;
+            color: #e73039;
+        }
+
+        div#frg-ebay-ad-0 .frg-ebay-header .frg-ebay-header-text {
+            font-size: 16px
+        }
+
+        div#frg-ebay-ad-0 div.frg-ebay-products-list div.frg-ebay-product {
+            height: 200px
+        }
+    </style>
+<title>Right Now at Amazon: Prada La Femme L&#039;Eau Prada</title>
+</head>
+<body>
+<div id="frg-ebay-ad-0" class="frg-ebay-container" style="display: block; width: auto;">
+<div class="frg-ebay-header">
+<span class="frg-ebay-header-text "><a href="https://www.amazon.it/s?k=Prada+La+Femme+L%27Eau+Prada&amp;i=beauty&amp;rh=p_n_availability%3A-1&amp;tag=fragrantic005-21&amp;linkCode=osi" target="_blank">Prada La Femme L&#039;Eau Prada
+<img src="https://fimgs.net/himg/o.55512.png"></a>
+</span>
+</div>
+<div class="frg-ebay-content" style="height: 464px;">
+<div class="frg-ebay-products-list" style="display: block;">
+<div class="frg-ebay-product frg-ebay-product-sku-container" title="Prada La Femme Eau De Parfum - 35 ml" tabindex="0" style="margin-left: 0px; width: 31.5%; display: block; height: 226px;">
+<div class="frg-ebay-product-sku" style="display: block;">
+<div tabindex="-1" class="frg-ebay-product-image-container">
+<div>
+<img class="frg-ebay-product-image" src="https://m.media-amazon.com/images/I/41kHKSmZzPL._SL160_.jpg">
+</div>
+</div>
+<div tabindex="-1" class="frg-ebay-product-title-container">
+<a rel="nofollow" tabindex="-1" class="frg-ebay-product-title" href="https://www.amazon.it/dp/B01JA9XRK6?tag=fragrantic005-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">
+<span class="frg-ebay-product-link-catcher"></span>
+<span class="frg-ebay-product-title-text">Prada La Femme Eau De Parfum - 35 ml</span>
+</a>
+</div>
+<div tabindex="-1" class="frg-ebay-product-attr-container  frg-ebay-product-attr-container-full ">
+<div class="frg-ebay-product-price">
+<span class="frg-ebay-product-offer-price" style="display: inline-block;">63,81 € (182,31 € / 100 ml)</span>
+</div>
+</div>
+</div>
+</div> <div class="frg-ebay-product frg-ebay-product-sku-container" title="La Femme Prada LEau Edt Vapo 100 Ml" tabindex="0" style="margin-left: 0px; width: 31.5%; display: block; height: 226px;">
+<div class="frg-ebay-product-sku" style="display: block;">
+<div tabindex="-1" class="frg-ebay-product-image-container">
+<div>
+<img class="frg-ebay-product-image" src="https://m.media-amazon.com/images/I/41Hr02cF1IL._SL160_.jpg">
+</div>
+</div>
+<div tabindex="-1" class="frg-ebay-product-title-container">
+<a rel="nofollow" tabindex="-1" class="frg-ebay-product-title" href="https://www.amazon.it/dp/B07BB1Y6BJ?tag=fragrantic005-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">
+<span class="frg-ebay-product-link-catcher"></span>
+<span class="frg-ebay-product-title-text">La Femme Prada LEau Edt Vapo 100 Ml</span>
+</a>
+</div>
+<div tabindex="-1" class="frg-ebay-product-attr-container  frg-ebay-product-attr-container-full ">
+<div class="frg-ebay-product-price">
+<span class="frg-ebay-product-offer-price" style="display: inline-block;">79,80 €</span>
+</div>
+</div>
+</div>
+</div> <div class="frg-ebay-product frg-ebay-product-sku-container" title="Prada Fragranza da Donna - 50 Ml" tabindex="0" style="margin-left: 0px; width: 31.5%; display: block; height: 226px;">
+<div class="frg-ebay-product-sku" style="display: block;">
+<div tabindex="-1" class="frg-ebay-product-image-container">
+<div>
+<img class="frg-ebay-product-image" src="https://m.media-amazon.com/images/I/41O-931WDzL._SL160_.jpg">
+</div>
+</div>
+<div tabindex="-1" class="frg-ebay-product-title-container">
+<a rel="nofollow" tabindex="-1" class="frg-ebay-product-title" href="https://www.amazon.it/dp/B01JA990NY?tag=fragrantic005-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">
+<span class="frg-ebay-product-link-catcher"></span>
+<span class="frg-ebay-product-title-text">Prada Fragranza da Donna - 50 Ml</span>
+</a>
+</div>
+<div tabindex="-1" class="frg-ebay-product-attr-container  frg-ebay-product-attr-container-full ">
+<div class="frg-ebay-product-price">
+<span class="frg-ebay-product-offer-price" style="display: inline-block;">77,40 € (154,80 € / 100 ml)</span>
+</div>
+</div>
+</div>
+</div> <div class="frg-ebay-product frg-ebay-product-sku-container" title="Prada, Agua fresca - 35 ml." tabindex="0" style="margin-left: 0px; width: 31.5%; display: block; height: 226px;">
+<div class="frg-ebay-product-sku" style="display: block;">
+<div tabindex="-1" class="frg-ebay-product-image-container">
+<div>
+<img class="frg-ebay-product-image" src="https://m.media-amazon.com/images/I/41HaxY--OFL._SL160_.jpg">
+</div>
+</div>
+<div tabindex="-1" class="frg-ebay-product-title-container">
+<a rel="nofollow" tabindex="-1" class="frg-ebay-product-title" href="https://www.amazon.it/dp/B07BB161ZX?tag=fragrantic005-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">
+<span class="frg-ebay-product-link-catcher"></span>
+<span class="frg-ebay-product-title-text">Prada, Agua fresca - 35 ml.</span>
+</a>
+</div>
+<div tabindex="-1" class="frg-ebay-product-attr-container  frg-ebay-product-attr-container-full ">
+<div class="frg-ebay-product-price">
+<span class="frg-ebay-product-offer-price" style="display: inline-block;">52,00 € (148,57 € / 100 ml)</span>
+</div>
+</div>
+</div>
+</div> <div class="frg-ebay-product frg-ebay-product-sku-container" title="Prada Femme Ep 100 Vp" tabindex="0" style="margin-left: 0px; width: 31.5%; display: block; height: 226px;">
+<div class="frg-ebay-product-sku" style="display: block;">
+<div tabindex="-1" class="frg-ebay-product-image-container">
+<div>
+<img class="frg-ebay-product-image" src="https://m.media-amazon.com/images/I/31Pty6zqqzL._SL160_.jpg">
+</div>
+</div>
+<div tabindex="-1" class="frg-ebay-product-title-container">
+<a rel="nofollow" tabindex="-1" class="frg-ebay-product-title" href="https://www.amazon.it/dp/B01JA9SUZI?tag=fragrantic005-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">
+<span class="frg-ebay-product-link-catcher"></span>
+<span class="frg-ebay-product-title-text">Prada Femme Ep 100 Vp</span>
+</a>
+</div>
+<div tabindex="-1" class="frg-ebay-product-attr-container  frg-ebay-product-attr-container-full ">
+<div class="frg-ebay-product-price">
+<span class="frg-ebay-product-offer-price" style="display: inline-block;">115,20 €</span>
+</div>
+</div>
+</div>
+</div> <div class="frg-ebay-product frg-ebay-product-sku-container" title="Prada La Femme Absolu Eau de parfum 100 ml" tabindex="0" style="margin-left: 0px; width: 31.5%; display: block; height: 226px;">
+<div class="frg-ebay-product-sku" style="display: block;">
+<div tabindex="-1" class="frg-ebay-product-image-container">
+<div>
+<img class="frg-ebay-product-image" src="https://m.media-amazon.com/images/I/31rd7PC3fpL._SL160_.jpg">
+</div>
+</div>
+<div tabindex="-1" class="frg-ebay-product-title-container">
+<a rel="nofollow" tabindex="-1" class="frg-ebay-product-title" href="https://www.amazon.it/dp/B07JG5BKJM?tag=fragrantic005-21&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">
+<span class="frg-ebay-product-link-catcher"></span>
+<span class="frg-ebay-product-title-text">Prada La Femme Absolu Eau de parfum 100 ml</span>
+</a>
+</div>
+<div tabindex="-1" class="frg-ebay-product-attr-container  frg-ebay-product-attr-container-full ">
+<div class="frg-ebay-product-price">
+<span class="frg-ebay-product-offer-price" style="display: inline-block;">99,00 € (990,00 € / l)</span>
+</div>
+</div>
+</div>
+</div> </div>
+</div>
+</div>
+</body>
+</html>

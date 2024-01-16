@@ -1,3 +1,5 @@
-2024/01/14-16:24:12.412 914 Reusing MANIFEST B:\Projects\Perfume-DataScrape\Chrome\Default\Local Storage\leveldb/MANIFEST-000001
-2024/01/14-16:24:12.426 914 Recovering log #10
-2024/01/14-16:24:12.430 914 Reusing old log B:\Projects\Perfume-DataScrape\Chrome\Default\Local Storage\leveldb/000010.log 
+2024/01/16-15:28:39.807 2c4c Reusing MANIFEST B:\Projects\Perfume-DataScrape\Chrome\Default\Local Storage\leveldb/MANIFEST-000001
+2024/01/16-15:28:39.817 2c4c Recovering log #10
+2024/01/16-15:28:39.818 2c4c Level-0 table #12: started
+2024/01/16-15:28:39.829 2c4c Level-0 table #12: 7916 bytes OK
+2024/01/16-15:28:39.836 2c4c Delete type=0 #10
